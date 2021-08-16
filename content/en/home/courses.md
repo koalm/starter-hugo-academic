@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 180
+weight: 250
 
 title: Courses
 subtitle: 
@@ -25,4 +25,4 @@ columns: "1"
 - [UG] Software system analysis (2019 Spring/2020 Spring/2021 Spring)
 - [UG] Experiments of software system analysis (2019 Spring/2020 Spring/2021 Spring) **Top 10% Courses**
 - [UG] Fundamentals of Industrial Engineering (2021 Fall)
-- [UG] Introduction to Engineering Management (2022 Spring)
+- [PG] Introduction to Engineering Management (2022 Spring)
