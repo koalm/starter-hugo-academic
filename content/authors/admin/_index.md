@@ -20,7 +20,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: School of Intelligent Systems Science and Engineering, Jinan University (Zhuhai Campus)
+  - name: School of Intelligent Systems Science and Engineering->Jinan University (Zhuhai Campus)
     url: https://sisse.jnu.edu.cn/2019/0606/c12456a323903/page.htm
 education:
   courses:

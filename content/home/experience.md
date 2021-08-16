@@ -25,7 +25,7 @@ experience:
   - title: Assistant Professor
     company: Jinan University
     company_url: 'www.jnu.edu.cn'
-    company_logo: jinan_university_logo.png
+    company_logo: jnu
     location: California
     date_start: '2019-03-15'
     date_end: ''
