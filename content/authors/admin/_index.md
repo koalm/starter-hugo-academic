@@ -1,74 +1,46 @@
 ---
-# Display name
 title: Dr.Ming LI
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
 role: Assistant Professor
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: School of Intelligent Systems Science and Engineering, Jinan University (Zhuhai Campus)
-  url:  https://sisse.jnu.edu.cn/2019/0606/c12456a323903/page.htm
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+avatar_filename: avatar.jpg
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
 interests:
-- Blockchain Technology
-- Cyber Physical System 
-- Digital Twin
-- Smart Manufacturing
-
-# Education to show in About widget
+  - Blockchain Technology
+  - Cyber Physical System
+  - Digital Twin
+  - Smart Manufacturing
+social:
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=JuAPUpsAAAAJ&hl
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/
+organizations:
+  - name: School of Intelligent Systems Science and Engineering, Jinan University
+      (Zhuhai Campus)
+    url: https://sisse.jnu.edu.cn/2019/0606/c12456a323903/page.htm
 education:
   courses:
-  - course: PhD in Industrial and Manufacturing Systems Engineering
-    institution: The University of Hong Kong (HKSAR)
-    year: 2018
-  - course: MSc in Industrial Engineering and Logistics Management
-    institution: The University of Hong Kong (HKSAR)
-    year: 2013
-  - course: BEng in Computer Science and Technology (Major)
-    institution: South China University of Technology (CHINA)
-    year: 2012
-  - course: BSc in Finance (Minor)
-    institution: South China University of Technology (CHINA)
-    year: 2012
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=JuAPUpsAAAAJ&hl
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "liming8738@gmail.com"
-
-# Highlight the author in author lists? (true/false)
+    - course: PhD in Industrial and Manufacturing Systems Engineering
+      institution: The University of Hong Kong (HKSAR)
+      year: 2018
+    - course: MSc in Industrial Engineering and Logistics Management
+      institution: The University of Hong Kong (HKSAR)
+      year: 2013
+    - course: BEng in Computer Science and Technology (Major)
+      institution: South China University of Technology (CHINA)
+      year: 2012
+    - course: BSc in Finance (Minor)
+      institution: South China University of Technology (CHINA)
+      year: 2012
+email: liming8738@gmail.com
+superuser: true
 highlight_name: true
 ---
-
-Dr. Ming LI is an Assistant Professor at School of Intelligent Systems Science and Engineering, Jinan University (Zhuhai Campus). 
-He received his PhD degree and master degree from Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong. He also obtained two Bachelor degrees in computer science and finance respectively at South China University of Technology. 
-Prior to joining JNU, he was a post-doctoral fellow at Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong. His research interests include multi-agent system, middleware system and industrial blockchain.
+Dr. Ming LI is an Assistant Professor at School of Intelligent Systems Science and Engineering, Jinan University (Zhuhai Campus). He received his PhD degree and master degree from Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong. He also obtained two Bachelor degrees in computer science and finance respectively at South China University of Technology. Prior to joining JNU, he was a post-doctoral fellow at Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong. His research interests include multi-agent system, middleware system and industrial blockchain.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
