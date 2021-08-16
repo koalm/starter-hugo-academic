@@ -18,8 +18,10 @@ subtitle:
 design:
 columns: "1"
 ---
-(* refers to corresponding author)->
+(* refers to corresponding author)
+
 [1] **Li, M.**, Shao, S.*, Ye, Q., Xu, G., & Huang, G. Q. (2020). Blockchain-enabled logistics finance execution platform for capital-constrained E-commerce retail. Robotics and Computer-Integrated Manufacturing, 65, 101962.
+
 Welcome to the demo of the **academic resumé template** for Wowchemy, the Website Builder for Hugo.
 
 [Explore similar templates](https://wowchemy.com/templates/)
