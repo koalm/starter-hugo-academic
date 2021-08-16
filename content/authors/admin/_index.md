@@ -10,8 +10,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: School of Intelligent Systems Science and Engineering
-- Jinan University (Zhuhai Campus)
+- name: School of Intelligent Systems Science and Engineering, Jinan University (Zhuhai Campus)
   url:  https://sisse.jnu.edu.cn/2019/0606/c12456a323903/page.htm
 
 # Short bio (displayed in user profile at end of posts)
@@ -20,7 +19,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Blockchain Technology
-- Cyber Physical System / Digital Twin
+- Cyber Physical System 
+- Digital Twin
 - Smart Manufacturing
 
 # Education to show in About widget
