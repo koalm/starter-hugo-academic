@@ -13,12 +13,12 @@ headless: true
 weight: 50
 
 title: Selected Publications
-subtitle:(* refers to corresponding author)
+subtitle: (* refers to corresponding author)
 
 design:
 columns: "1"
 ---
-
+(* refers to corresponding author)
 
 [1] **Li, M.**, Li, Z. *, Huang, X., & Qu, T. (2021). Blockchain-based digital twin sharing platform for reconfigurable socialized manufacturing resource integration. *International Journal of Production Economics*, 240, 108223.
 
