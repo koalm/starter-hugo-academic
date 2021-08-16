@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr.Ming LI
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: School of Intelligent Systems Science and Engineering, Jinan University (Zhuhai Campus)
+  url:  https://sisse.jnu.edu.cn/2019/0606/c12456a323903/page.htm
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
