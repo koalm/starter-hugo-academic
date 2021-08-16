@@ -26,14 +26,14 @@ experience:
     company: Jinan University
     company_url: 'www.jnu.edu.cn'
     company_logo: jnu
-    location: California
+    location: China
     date_start: '2019-03-15'
     date_end: ''
         
   - title: Post-doctoral Fellow
     company: The University of Hong Kong
     company_url: 'www.hku.hk'
-    company_logo: org-x
+    company_logo: hku
     location: HKSAR
     date_start: '2018-11-01'
     date_end: '2019-12-31'
