@@ -10,7 +10,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: School of Intelligent Systems Science and Engineering </br> Jinan University (Zhuhai Campus)
+- name: School of Intelligent Systems Science and Engineering </p> Jinan University (Zhuhai Campus)
   url:  https://sisse.jnu.edu.cn/2019/0606/c12456a323903/page.htm
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,30 +18,28 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Blockchain Technology
+- Cyber Physical System/Digital Twin
+- Smart Manufacturing
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Industrial and Manufacturing Systems Engineering
+    institution: The University of Hong Kong (HKSAR)
+    year: 2018
+  - course: MSc in Industrial Engineering and Logistics Management
+    institution: The University of Hong Kong (HKSAR)
+    year: 2013
+  - course: BEng in Computer Science and Technology (Major) / BSc in Finance (Minor)
+    institution: South China University of Technology (CHINA)
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-
-
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=JuAPUpsAAAAJ&hl
