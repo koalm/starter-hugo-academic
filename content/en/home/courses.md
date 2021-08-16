@@ -19,10 +19,10 @@ design:
 columns: "1"
 ---
 
-- Production planning and control (UG, 2019 Spring)
-- RFID principle and application (UG, 2019 Fall/2020 Fall)
-- Experiments of RFID principle and application (UG, 2019 Fall/2020 Fall)
-- Software system analysis (UG, 2019 Spring/2020 Spring/2021 Spring)
-- Experiments of software system analysis (UG, 2019 Spring/2020 Spring/2021 Spring) **Top 10% Courses**
-- Fundamentals of Industrial Engineering (UG,2021 Fall)
-- Introduction to Engineering Management (PG, 2022 Spring)
+- [UG] Production planning and control (2019 Spring)
+- [UG] RFID principle and application (2019 Fall/2020 Fall)
+- [UG] Experiments of RFID principle and application (2019 Fall/2020 Fall)
+- [UG] Software system analysis (2019 Spring/2020 Spring/2021 Spring)
+- [UG] Experiments of software system analysis (2019 Spring/2020 Spring/2021 Spring) **Top 10% Courses**
+- [UG] Fundamentals of Industrial Engineering (2021 Fall)
+- [UG] Introduction to Engineering Management (2022 Spring)
