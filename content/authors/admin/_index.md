@@ -10,7 +10,8 @@ role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: School of Intelligent Systems Science and Engineering, Jinan University (Zhuhai Campus)
+- name: School of Intelligent Systems Science and Engineering
+  Jinan University (Zhuhai Campus)
   url:  https://sisse.jnu.edu.cn/2019/0606/c12456a323903/page.htm
 
 # Short bio (displayed in user profile at end of posts)
@@ -64,14 +65,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "liming8738@gmail.com"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Ming LI is a lecturer at School of Intelligent Systems Science and Engineering, Jinan University (Zhuhai Campus). He received his PhD degree and master degree from Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong. He also obtained two Bachelor degrees in computer science and finance respectively at South China University of Technology. Prior to joining JNU, he was a post-doctoral fellow at Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong. His research interests include multi-agent system, middleware system and industrial blockchain.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
