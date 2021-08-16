@@ -41,7 +41,7 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=JuAPUpsAAAAJ&hl
 - icon: github
   icon_pack: fab
@@ -64,6 +64,8 @@ email: "liming8738@gmail.com"
 highlight_name: true
 ---
 
-Dr. Ming LI is a lecturer at School of Intelligent Systems Science and Engineering, Jinan University (Zhuhai Campus). He received his PhD degree and master degree from Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong. He also obtained two Bachelor degrees in computer science and finance respectively at South China University of Technology. Prior to joining JNU, he was a post-doctoral fellow at Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong. His research interests include multi-agent system, middleware system and industrial blockchain.
+Dr. Ming LI is a lecturer at School of Intelligent Systems Science and Engineering, Jinan University (Zhuhai Campus). 
+He received his PhD degree and master degree from Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong. He also obtained two Bachelor degrees in computer science and finance respectively at South China University of Technology. 
+Prior to joining JNU, he was a post-doctoral fellow at Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong. His research interests include multi-agent system, middleware system and industrial blockchain.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
