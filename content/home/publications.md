@@ -31,3 +31,5 @@ columns: "1"
 [5] **Li, M.**, Shen, L., & Huang, G. Q.* (2019). Blockchain-enabled workflow operating system for logistics resources sharing in E-commerce logistics real estate service. *Computers & Industrial Engineering*, 135, 950-969.
 
 [6] **Li, M.**, Xu, G.*, Lin, P., & Huang, G. Q. (2019). Cloud-based mobile gateway operation system for industrial wearables. *Robotics and Computer-Integrated Manufacturing*, 58, 43-54.
+
+[7] **Li, M.**, Lin, P., Xu, G., & Huang, G. Q.* (2018). Cloud-based ubiquitous object sharing platform for heterogeneous logistics system integration. *Advanced Engineering Informatics*, 38, 343-356.
