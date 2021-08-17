@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 300
+weight: 380
 
 title: Academic Services
 subtitle: 
