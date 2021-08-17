@@ -34,7 +34,7 @@ experience:
     company: 香港大学
     company_url: 'https://www.hku.hk'
     company_logo: hku
-    location: 香港
+    location: 香港特别行政区
     date_start: '2018-11-01'
     date_end: '2019-12-31'
     
