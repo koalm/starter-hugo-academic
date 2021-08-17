@@ -9,7 +9,7 @@ en:
 
 zh:
   languageCode: zh-Hans
-  contentDir: content/zh-Hans
+  contentDir: content/zh
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
