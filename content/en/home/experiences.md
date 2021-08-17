@@ -41,7 +41,7 @@ experience:
   - title: CTO
     company: Comma Technology Limited
     company_url: 'https://www.smartcomma.com'
-    company_logo: hku
+    company_logo: comma
     location: China
     date_start: '2014-10-16'
     date_end: ''
