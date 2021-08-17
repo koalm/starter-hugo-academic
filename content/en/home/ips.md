@@ -19,7 +19,7 @@ design:
 columns: "1"
 ---
 {{< hl >}}**PATENTS**{{< /hl >}}
-{{< br >}}{{< /br >}}
+< /br >
 
 [1] **Li Ming**, Ren Puyao, Folding charging device, CN209860633U, 27/12/2019.
 
