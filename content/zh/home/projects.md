@@ -38,5 +38,4 @@ columns: "1"
 [9] 香港创新及科技基金，ITT/003/18LP，Trial: RFID-Enabled Building Information Modeling (BIM) Platform for Prefabrication Housing Production in Hong Kong，2018-2019，项目经理（PM）
 
 [10] 香港创新及科技基金，ITP/045/13LP，RFID-Enabled Building Information Modeling (BIM) Platform for Prefabrication Housing Production in Hong Kong，2014-2016，骨干成员
-using Production in Hong Kong, *Hong Kong Innovation and Technology Fund (ITP/045/13LP)*, HKD 9,570,000, **Key Participant**
 

@@ -13,12 +13,16 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=JuAPUpsAAAAJ&hl
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Ming-Li-216
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0003-4119-7340
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/%E6%98%8E-%E6%9D%8E-143021130
+    
 organizations:
   - name: School of Intelligent Systems Science and Engineering, Jinan University (Zhuhai Campus)
     url: https://sisse.jnu.edu.cn/2019/0606/c12456a323903/page.htm
