@@ -13,7 +13,7 @@ headless: true
 weight: 120
 
 title: 论文
-subtitle: (* refers to corresponding author)
+subtitle: (* 为通讯作者)
 
 design:
 columns: "1"
