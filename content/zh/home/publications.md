@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 120
 
-title: Selected Publications
+title: 论文
 subtitle: (* refers to corresponding author)
 
 design:

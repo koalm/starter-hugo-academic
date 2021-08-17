@@ -12,17 +12,17 @@ headless: true
 # Order that this section appears on the page.
 weight: 250
 
-title: Courses
+title: 课程
 subtitle: 
 
 design:
 columns: "1"
 ---
 
-- [UG] Production planning and control (2019 Spring)
-- [UG] RFID principle and application (2019 Fall/2020 Fall)
-- [UG] Experiments of RFID principle and application (2019 Fall/2020 Fall)
-- [UG] Software system analysis (2019 Spring/2020 Spring/2021 Spring)
-- [UG] Experiments of software system analysis (2019 Spring/2020 Spring/2021 Spring) **Top 10% Courses**
-- [UG] Fundamentals of Industrial Engineering (2021 Fall)
-- [PG] Introduction to Engineering Management (2022 Spring)
+- [本科] 生产计划与控制 (2019 春季)
+- [本科] RFID原理及应用 (2019 秋季/2020 秋季/2021 秋季)
+- [本科] RFID原理及应用实验 (2019 秋季/2020 秋季/2021 秋季z)
+- [本科] 软件系统分析 (2019 春季/2020 春季/2021 春季)
+- [本科] 软件系统分析实验 (2019 春季/2020 春季/2021 春季) **评估前10%课程**
+- [本科] 基础工业工程 (2021 秋季)
+- [本科] 工程管理导论 (2022 春季)

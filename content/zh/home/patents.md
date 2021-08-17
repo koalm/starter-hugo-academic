@@ -12,31 +12,63 @@ headless: true
 # Order that this section appears on the page.
 weight: 300
 
-title: Patents
+title: 专利
 subtitle: 
 
 design:
 columns: "1"
 ---
 
-[1] **Li Ming**, Ren Puyao, Folding charging device, CN209860633U, 27/12/2019.
+**发明专利**
 
-[2] **Li Ming**, Li Longyi, Traceable smart lock based on NB-IoT technologies shares drop & hook, CN207895616U, 21/09/2018.
+[1] 卞江、刘震环、罗浩、孔祥天瑞、邵赛俊、李明、马卓豪、刘小井、朱嘉铭，一种模块化仓储系统，中国，ZL201710198356.4（已授权）
 
-[3] **Li Ming**, Ren Puyao, One kind being based on the Multidimensional Awareness sensing equipment of NB-IoT, CN208238830U, 14/12/2018.
+[2] 李明、谢阳润，基于NB-IoT多维感知装置的低功耗控制方法，中国，ZL201810212206.9（实质审查）
 
-[4] **Li Ming**, Xie Yangrui, Low power controller based on NB-IoT multidimensional sensing device, CN208172557U, 30/11/2018.
+[3] 李明、谢阳润，蓝牙设备的快速连接方法，中国，ZL201810199788.1（实质审查）
 
-[5] **Li Ming**, Li Chunming, Wearable one-dimension code two-dimensional code reader, CN208077183U, 09/11/2018.
+[4] 李明、谢阳润，可共享数据的物流追溯方法，中国，ZL201910527814.3（实质审查）
 
-[6] Shao Saijun, Xu Kaishuo, Luo Hao, Kong Xiangtianrui, **Li Ming**, Dai Wei, A kind of contact read-write equipment of non-contact reader-writer, CN207529388U, 22/06/2018.
+[5] 李明、谢阳润，一种物流追溯设备的软件远程升级的方法，中国，ZL 201910531897.3（实质审查）
 
-[7] Shao Saijun, Xu Kaishuo, Luo Hao, Kong Xiangtianrui, **Li Ming**, Dai Wei, A kind of wearable data collection station, CN207320378U, 04/05/2018
+[6] 李明、罗浩、孔祥天瑞、邵赛俊、谢阳润、任普耀、李春明、徐凯硕、彭林裕、黄国全，一种小型化超高频读写电路模块，中国，ZL 201710478999.4（实质审查）
 
-[8] Kong Xiangtianrui, Luo Hao, Huang Guoquan, **Li Ming**, et al., Expansible portable intelligent device based on USB bus technology, CN207198813U, 06/04/2018
+[7] 罗浩、徐凯硕、彭林裕、孔祥天瑞、李明、邵赛俊、马璇、黄国全，基于云平台的绩效管理系统及绩效支付方法，中国，ZL 201710458997.9（实质审查）
 
-[9] **Li Ming**, Luo Hao, Kong Xiangtianrui, et al., One kind miniaturization hyperfrequency read/write circuit module, CN206863785U, 09/01/2018.
+[8] 孔祥天瑞、罗浩、黄国全、李明、邵赛俊、谢阳润、任普耀、李春明、徐凯硕、彭林裕，基于USB总线技术的可扩展便携式智能设备，中国，ZL201710438731.8（实质审查）
 
-[10] Bian Jiang, Liu Zhenhuan, Luo Hao, Kong Xiangtianrui, Shao Saijun, **Li Ming**, et.al, Modular warehousing system, CN107054958B, 03/01/2020.
+[9] 邵赛俊、徐凯硕、罗浩、孔祥天瑞、李明、戴维，大件宅配动态单元化运输存储装置，中国，ZL201711001346.3（实质审查）
 
-[11] Kong Xiangtianrui, Huang Guoquan, Shao Saijun, Yang Huibin, Luo Hao, **Li Ming**, Portable intelligence pen with extend function, CN204759368U, 11/11/2015.
+[10] 邵赛俊、徐凯硕、罗浩、孔祥天瑞、李明、戴维，一种可穿戴式数据采集终端，中国，ZL201711013727.3（实质审查）
+
+[11] 邵赛俊、徐凯硕、罗浩、孔祥天瑞、李明、戴维，一种非接触式读写器的接触式读写装置，中国，ZL201711002206.8（实质审查）
+
+[12] 李明、徐素秀，一种基于NB-IoT的低功耗多模定位方法及系统，中国，ZL202010338161.7（实质审查）
+
+[13] 李明、彭浩，一种智能化仓储分拣的一体模块化单元，中国，ZL202010259578.4（实质审查）
+
+[14] 李明，一种自动化医药品分拣系统及方法，中国，202110525609.0（已受理）
+
+[15] 李明，一种基于NB-IoT的低功耗电子标签及控制方法，中国，202110532437.X（已受理）
+
+**实用新型专利**
+
+[1] 李明、任普耀，一种折叠式充电装置，中国，ZL201920917143.7
+
+[2] 李明、李龙裔, 基于NB-IoT技术的可追踪智能锁共享甩柜，中国，ZL201820383161.9
+
+[3] 李明、李春明, 可穿戴的一维二维码读取器，中国，ZL201820333469.0。
+
+[4] 李明、谢阳润, 基于NB-IoT多维感知装置的低功耗控制器，中国，ZL201820350658.9
+
+[5] 李明、任普耀, 一种基于NB-IoT的多维感知传感设备,中国, ZL201820333470.3
+
+[6] 李明、罗浩、孔祥天瑞、邵赛俊、谢阳润、任普耀、李春明、徐凯硕、彭林裕、黄国全，一种小型化超高频读写电路模块，中国，ZL201720729856.1（与发明专利同族申请）
+
+[7] 孔祥天瑞、黄国全、邵赛俊、杨慧斌、罗浩、李明，一种具有拓展功能的便携式智能笔，中国，ZL201520343358.4
+
+[8] 孔祥天瑞、罗浩、黄国全、李明、邵赛俊、谢阳润、任普耀、李春明、徐凯硕、彭林裕，基于USB总线技术的可扩展便携式智能设备，中国，ZL201720677643.9（与发明专利同族申请）
+
+[9] 邵赛俊、徐凯硕、罗浩、孔祥天瑞、李明、戴维，一种可穿戴式数据采集终端，中国，ZL201721391759.2（与发明专利同族申请）
+
+[10] 邵赛俊、徐凯硕、罗浩、孔祥天瑞、李明、戴维，一种非接触式读写器的接触式读写装置，中国，ZL201721377508.9

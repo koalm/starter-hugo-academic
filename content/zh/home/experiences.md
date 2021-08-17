@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 45
 
-title: Working Experience
+title: 工作经历
 subtitle:
 
 # Date format for experience
@@ -22,27 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Assistant Professor
-    company: Jinan University
-    company_url: 'https://www.jnu.edu.cn'
+  - title: 助理教授
+    company: 暨南大学智能科学与工程学院
+    company_url: 'https://sisse.jnu.edu.cn/'
     company_logo: jnu
-    location: China
+    location: 广东省珠海市
     date_start: '2019-03-15'
     date_end: ''
         
-  - title: Post-doctoral Fellow
-    company: The University of Hong Kong
+  - title: 博士后研究院
+    company: 香港大学
     company_url: 'https://www.hku.hk'
     company_logo: hku
-    location: HKSAR
+    location: 香港
     date_start: '2018-11-01'
     date_end: '2019-12-31'
     
-  - title: CTO
-    company: Comma Technology Limited
+  - title: 首席技术官
+    company: 深圳逗号互联科技有限公司
     company_url: 'https://www.smartcomma.com'
     company_logo: comma
-    location: China
+    location: 广东省深圳市
     date_start: '2014-10-16'
     date_end: ''
 
