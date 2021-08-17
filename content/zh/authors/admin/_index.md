@@ -10,6 +10,9 @@ interests:
   - 数字孪生技术
   - 智能制造
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:liming8738@gmail.com"
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=JuAPUpsAAAAJ&hl
