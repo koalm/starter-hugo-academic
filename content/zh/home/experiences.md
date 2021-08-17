@@ -30,7 +30,7 @@ experience:
     date_start: '2019-03-15'
     date_end: ''
         
-  - title: 博士后研究院
+  - title: 博士后研究员
     company: 香港大学
     company_url: 'https://www.hku.hk'
     company_logo: hku
