@@ -20,18 +20,18 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: liming8738@gmail.com / liming@jnu.edu.cn
+email: liming@jnu.edu.cn
 address:
-  street: No.206 Qianshan
-  city: Zhuhai
-  region: Guangdong
+  street: 广东省珠海市香洲区前山路206号暨南大学珠海校区行政楼635室
+  city:
+  region:
   postcode: '519070'
-  country: P.R.China
+  country:
   country_code: CHN
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
-directions: RM635,Adminitration Building
+directions:
 #office_hours:
  # - 'Monday 10:00 to 13:00'
  # - 'Wednesday 09:00 to 10:00'
