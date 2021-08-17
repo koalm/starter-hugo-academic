@@ -19,6 +19,7 @@ design:
 columns: "1"
 ---
 {{< hl >}}**PATENTS**{{< /hl >}}
+
 [1] **Li Ming**, Ren Puyao, Folding charging device, CN209860633U, 27/12/2019.
 
 [2] **Li Ming**, Li Longyi, Traceable smart lock based on NB-IoT technologies shares drop & hook, CN207895616U, 21/09/2018.
@@ -42,6 +43,7 @@ columns: "1"
 [11] Kong Xiangtianrui, Huang Guoquan, Shao Saijun, Yang Huibin, Luo Hao, **Li Ming**, Portable intelligence pen with extend function, CN204759368U, 11/11/2015.
 
 {{< hl >}}**COPYRIGHTS**{{< /hl >}}
+
 [1] Smart warehouse buffering management system V1.1, 2019SR0800812.
 
 [2] Mobile cloud asset execution control system V1.1, 2019SR0803116.
