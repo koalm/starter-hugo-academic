@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 35
+weight: 45
 
 title: Working Experience
 subtitle:
@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Assistant Professor
     company: Jinan University
-    company_url: 'www.jnu.edu.cn'
+    company_url: 'https://www.jnu.edu.cn'
     company_logo: jnu
     location: China
     date_start: '2019-03-15'
@@ -32,11 +32,19 @@ experience:
         
   - title: Post-doctoral Fellow
     company: The University of Hong Kong
-    company_url: 'www.hku.hk'
+    company_url: 'https://www.hku.hk'
     company_logo: hku
     location: HKSAR
     date_start: '2018-11-01'
     date_end: '2019-12-31'
+    
+  - title: CTO
+    company: Comma Technology Limited
+    company_url: 'https://www.smartcomma.com'
+    company_logo: comma
+    location: China
+    date_start: '2014-10-16'
+    date_end: ''
 
 design:
   columns: '2'

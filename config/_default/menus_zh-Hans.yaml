@@ -4,28 +4,28 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: 简介
     url: '#about'
     weight: 10
-  - name: Experiences
+  - name: 工作经历
     url: '#experiences'
     weight: 20
-  - name: Publications
+  - name: 论文
     url: '#publications'
     weight: 30
-  - name: Projects
+  - name: 项目
     url: '#projects'
     weight: 40
-  - name: Courses
+  - name: 课程
     url: '#courses'
     weight: 50
-  - name: Patents
+  - name: 专利
     url: '#patents'
     weight: 60
-  - name: Copyrights
+  - name: 软件著作权
     url: '#copyrights'
     weight: 70
-  - name: Adademic Services
+  - name: 学术服务
     url: '#services'
     weight: 80
 
