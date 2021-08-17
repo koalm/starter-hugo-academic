@@ -32,10 +32,10 @@ coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
 directions: RM635,Adminitration Building
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+#office_hours:
+ # - 'Monday 10:00 to 13:00'
+ # - 'Wednesday 09:00 to 10:00'
+#appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
@@ -60,7 +60,7 @@ main_menu:
   enable: true
   align: l
   show_logo: true
-  show_language: false
+  show_language: true
   show_day_night: true
   show_search: true
   highlight_active_link: true
@@ -99,11 +99,11 @@ section_pager: false
 docs_section_pager: true
 sharing: true
 copyright_license:
-  enable: false
+  enable: true
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
-  notice: 'This work is licensed under {license}'
+  notice: '2021 by Ming Li. All rights reserved'
 abstract_length: 135
 plugins_js: []
 avatar:
