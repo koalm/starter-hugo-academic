@@ -12,13 +12,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 300
 
-title: Intellectual Property
+title: Patents
 subtitle: 
 
 design:
 columns: "1"
 ---
-- {{< hl >}}**PATENTS**{{< /hl >}}
 
 [1] **Li Ming**, Ren Puyao, Folding charging device, CN209860633U, 27/12/2019.
 
@@ -41,38 +40,3 @@ columns: "1"
 [10] Bian Jiang, Liu Zhenhuan, Luo Hao, Kong Xiangtianrui, Shao Saijun, **Li Ming**, et.al, Modular warehousing system, CN107054958B, 03/01/2020.
 
 [11] Kong Xiangtianrui, Huang Guoquan, Shao Saijun, Yang Huibin, Luo Hao, **Li Ming**, Portable intelligence pen with extend function, CN204759368U, 11/11/2015.
-
-- {{< hl >}}**COPYRIGHTS**{{< /hl >}}
- 
-
-[1] Smart warehouse buffering management system V1.1, 2019SR0800812.
-
-[2] Mobile cloud asset execution control system V1.1, 2019SR0803116.
-
-[3] Smart logistics buffering management system V1.1, 2019SR0801270.
-
-[4] Smart UPnP mobile gateway for heterogeneous devices V1.1, 2019SR0801267.
-
-[5] iSync E-commerce logistics synchronization system V1.1, 2019SR0803133.
-
-[6] iCoordinator logistics resource collaborated execution system V1.1, 2019SR0803121.
-
-[7] Digital twin-based low power Bluetooth scanning control system V1.0, 2020SR0467011.
-
-[8] Microkernel-based integrated control system for Heterogeneous IoT devices V1.0, 2020SR0467287.
-
-[9] Data-driven routing optimization service platform V1.0, 2020SR0710159.
-
-[10] Real-time tracking and tracing service system based on NB-IoT V1.0, 2020SR0710152.
-
-[11] Blockchain-based trustable Internet of Things acquisition module V1.0, 2021SR0606930.
-
-[12] Blockchain-based pharmaceutical logistics digital twin unit module V1.0, 2021SR0606929.
-
-[13] A multi-dimensional fusion digital twin system for circulating water pumps V1.0, 2021SR0593987.
-
-[14] A multi-dimensional fusion digital twin system for SMT production line V1.0, 2021SR599060.
-
-[15] Blockchain-based multi-dimensional supervision platform for pharmaceutical supply chain V1.0, 2021SR0594073
-
-[16] Digital twin control system for heterogeneous 3D printers V1.0, 2021SR0594072.
