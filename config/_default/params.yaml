@@ -13,9 +13,9 @@ font_size: L
 # SEO
 
 site_type: Person
-local_business_type: ''
+local_business_type: 'education'
 org_name: 'Jinan University'
-description: ''
+description: 'JNU Li Ming'
 twitter: ''
 
 # Contact (edit or remove options as required)
@@ -37,22 +37,7 @@ directions: RM635,Adminitration Building
  # - 'Wednesday 09:00 to 10:00'
 #appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+
 
 # Site header
 
