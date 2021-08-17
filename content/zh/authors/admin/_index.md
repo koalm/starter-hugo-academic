@@ -1,14 +1,14 @@
 ---
-title: Dr.Ming LI
-role: Assistant Professor
+title: 李明 博士
+role: 助理教授
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Blockchain Technology
-  - Cyber Physical System
-  - Digital Twin
-  - Smart Manufacturing
+  - 区块链技术与应用
+  - 信息物理系统
+  - 数字孪生技术
+  - 智能制造
 social:
   - icon: google-scholar
     icon_pack: ai
@@ -20,26 +20,30 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: School of Intelligent Systems Science and Engineering, Jinan University (Zhuhai Campus)
+  - name: 暨南大学智能科学与工程学院/人工智能产业学院
     url: https://sisse.jnu.edu.cn/2019/0606/c12456a323903/page.htm
 education:
   courses:
-    - course: PhD in Industrial and Manufacturing Systems Engineering
-      institution: The University of Hong Kong (HKSAR)
+    - course: 哲学博士（工业及制造系统工程）
+      institution: 香港大学 
       year: 2018
-    - course: MSc in Industrial Engineering and Logistics Management
-      institution: The University of Hong Kong (HKSAR)
+    - course: 理学硕士（工业工程及物流管理）
+      institution: 香港大学
       year: 2013
-    - course: BEng in Computer Science and Technology (Major)
-      institution: South China University of Technology (CHINA)
+    - course: 工学学士（计算机科学与技术，第一学位）
+      institution: 华南理工大学计算机科学与工程学院
       year: 2012
-    - course: BSc in Finance (Minor)
-      institution: South China University of Technology (CHINA)
+    - course: 理学学士（金融学，第二学位)
+      institution: 华南理工大学经济与贸易学院
       year: 2012
 email: liming8738@gmail.com
 superuser: true
 highlight_name: true
 ---
-Dr. Ming LI is an Assistant Professor at School of Intelligent Systems Science and Engineering, Jinan University (Zhuhai Campus). He received his PhD degree and master degree from Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong. He also obtained two Bachelor degrees in computer science and finance respectively at South China University of Technology. Prior to joining JNU, he was a post-doctoral fellow at Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong. He has conducted research projects in the field of Industrial Blockchain for Manufacturing and Logistics with substantial government and industrial grants ( Accumulated Over 1 Million RMB). He has published dozens of SCI research papers on leading international journals including IJPE, IJPR, RCIM,CAIE, and etc.
+李明博士现任暨南大学智能科学与工程学院/人工智能产业学院助理教授。他于2012年在华南理工大学获得了计算机科学与技术与金融学的双学士学位，同年前往香港大学工业及制造系统工程系，并分别于2013年和2018年取得了硕士和博士学位。随后他继续在香港大学从事博士后研究工作。
+李明博士主要从事区块链技术及信息物理系统在智能制造和智慧物流领域的应用研究，目前主持各类科研、教研项目7项，以骨干身份参与国家级、省部级项目5项，个人可支配科研经费超过100万人民币。发表科研论文20余篇，其中以第一作者、通讯作者身份发表高水平SCI论文8篇。申请及授权发明专利10余项、授权实用新型专利10余项、授权软件著作权10余项。
+
+
+ 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
