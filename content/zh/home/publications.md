@@ -19,13 +19,13 @@ design:
 columns: "1"
 ---
 
-[1] **Li, M.**, Fu, Y. *, Chen, Q., Qu T., (2021). Blockchain-enabled digital twin collaboration platform for heterogeneous socialized manufacturing resource management. *International Journal of Production Research*, [DOI: 10.1080/00207543.2021.1966118](https://doi.org/10.1080/00207543.2021.1966118)
+[1] **Li, M.**, Fu, Y. *, Chen, Q., Qu T. (2021). Blockchain-enabled digital twin collaboration platform for heterogeneous socialized manufacturing resource management. *International Journal of Production Research*, [DOI: 10.1080/00207543.2021.1966118](https://doi.org/10.1080/00207543.2021.1966118)
 
 [2] **Li, M.**, Li, Z. *, Huang, X., & Qu, T. (2021). Blockchain-based digital twin sharing platform for reconfigurable socialized manufacturing resource integration. *International Journal of Production Economics*, 240, 108223.
 
 [3] Fu, Y., & **Li, M.** * (2021). DEA cross‐efficiency aggregation based on preference structure and acceptability analysis. *International Transactions in Operational Research*. [doi.org/10.1111/itor.13041](https://doi.org/10.1111/itor.13041)
 
-[4]**Li, M.**, Shao, S. *, Ye, Q., Xu, G., & Huang, G. Q. (2020). Blockchain-enabled logistics finance execution platform for capital-constrained E-commerce retail. *Robotics and Computer-Integrated Manufacturing*, 65, 101962.
+[4] **Li, M.**, Shao, S. *, Ye, Q., Xu, G., & Huang, G. Q. (2020). Blockchain-enabled logistics finance execution platform for capital-constrained E-commerce retail. *Robotics and Computer-Integrated Manufacturing*, 65, 101962.
 
 [5] Fu, Y., **Li, M.** *, Luo, H. *, & Huang, G. Q. (2019). Industrial robot selection using stochastic multicriteria acceptability analysis for group decision making. *Robotics and Autonomous Systems*, 122, 103304.
 
