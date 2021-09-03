@@ -19,7 +19,7 @@ design:
 columns: "1"
 ---
 
-[1] **Li, M.**, Fu, Y., Chen, Q., Qu T., (2021). Blockchain-enabled digital twin collaboration platform for heterogeneous socialized manufacturing resource management. *International Journal of Production Research*, [DOI: 10.1080/00207543.2021.1966118](https://doi.org/10.1080/00207543.2021.1966118)
+[1] **Li, M.**, Fu, Y. *, Chen, Q., Qu T., (2021). Blockchain-enabled digital twin collaboration platform for heterogeneous socialized manufacturing resource management. *International Journal of Production Research*, [DOI: 10.1080/00207543.2021.1966118](https://doi.org/10.1080/00207543.2021.1966118)
 
 [2] **Li, M.**, Li, Z. *, Huang, X., & Qu, T. (2021). Blockchain-based digital twin sharing platform for reconfigurable socialized manufacturing resource integration. *International Journal of Production Economics*, 240, 108223.
 
