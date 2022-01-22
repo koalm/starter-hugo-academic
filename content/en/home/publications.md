@@ -19,7 +19,7 @@ design:
 columns: "1"
 ---
 
-[1] **Li, M.**, Shao, S., Li, Y., Zhang, H., Zhang, N., & He, Y. (2022). A Physical Internet (PI) based inland container transportation problem with selective non-containerized shipping requests. *International Journal of Production Economics*, 245, 108403. [doi.org/10.1016/j.ijpe.2021.108403](https://doi.org/10.1016/j.ijpe.2021.108403)
+[1] **Li, M.**, Shao, S. *, Li, Y., Zhang, H., Zhang, N., & He, Y. (2022). A Physical Internet (PI) based inland container transportation problem with selective non-containerized shipping requests. *International Journal of Production Economics*, 245, 108403. [doi.org/10.1016/j.ijpe.2021.108403](https://doi.org/10.1016/j.ijpe.2021.108403)
 
 [2] **Li, M.**, Fu, Y. *, Chen, Q., Qu T. (2021). Blockchain-enabled digital twin collaboration platform for heterogeneous socialized manufacturing resource management. *International Journal of Production Research*, [doi.org/10.1080/00207543.2021.1966118](https://doi.org/10.1080/00207543.2021.1966118)
 
