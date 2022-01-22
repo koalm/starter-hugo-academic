@@ -25,7 +25,7 @@ columns: "1"
 
 [3] **Li, M.**, Li, Z. *, Huang, X., & Qu, T. (2021). Blockchain-based digital twin sharing platform for reconfigurable socialized manufacturing resource integration. *International Journal of Production Economics*, 240, 108223.
 
-[4] Fu, Y., & **Li, M.** * (2022). DEA cross‐efficiency aggregation based on preference structure and acceptability analysis. *International Transactions in Operational Research*,29,987-1011. [doi.org/10.1111/itor.13041](https://doi.org/10.1111/itor.13041)
+[4] Fu, Y., & **Li, M.** * (2022). DEA cross‐efficiency aggregation based on preference structure and acceptability analysis. *International Transactions in Operational Research*, 29, 987-1011. [doi.org/10.1111/itor.13041](https://doi.org/10.1111/itor.13041)
 
 [5] **Li, M.**, Shao, S. *, Ye, Q., Xu, G., & Huang, G. Q. (2020). Blockchain-enabled logistics finance execution platform for capital-constrained E-commerce retail. *Robotics and Computer-Integrated Manufacturing*, 65, 101962.
 
