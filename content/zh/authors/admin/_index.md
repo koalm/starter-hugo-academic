@@ -34,7 +34,7 @@ education:
     - course: 哲学博士（工业及制造系统工程）
       institution: 香港大学 
       year: 2018
-    - course: 理学硕士（工业工程及物流管理）
+    - course: 工学硕士（工业工程及物流管理）
       institution: 香港大学
       year: 2013
     - course: 工学学士（计算机科学与技术，第一学位）
