@@ -55,7 +55,6 @@ experience:
     location: China
     date_start: '2014-10-16'
     date_end: ''
-
-      design:
-        columns: '2'
+design:
+  columns: '2'
 ---
