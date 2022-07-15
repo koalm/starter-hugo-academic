@@ -61,4 +61,8 @@ columns: "1"
 
 [21] A multi-dimensional fusion digital twin system for nuclear power units V1.0, 2022SR0598619.
 
-[22] HF campus card experiment system based on RFID experiment platform V1.0, 
+[22] HF campus card experiment system based on RFID experiment platform V1.0, 2022SR0598602.
+
+[23] LF access control card experimental system based on RFID experimental platform V1.0, 2022SR0598601.
+
+[24] UHF warehousing experimental system based on RFID experimental platform V1.0, 2022SR0598581.
