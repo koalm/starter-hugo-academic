@@ -1,6 +1,6 @@
 ---
 title: Dr.Ming LI
-role: Assistant Professor
+role: Research Assistant Professor
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -27,7 +27,7 @@ social:
     link: https://www.linkedin.com/in/%E6%98%8E-%E6%9D%8E-143021130
     
 organizations:
-  - name: School of Intelligent Systems Science and Engineering, Jinan University (Zhuhai Campus)
+  - name: Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University
     url: https://sisse.jnu.edu.cn/2019/0606/c12456a323903/page.htm
 education:
   courses:
@@ -47,5 +47,4 @@ email: liming8738@gmail.com
 superuser: true
 highlight_name: true
 ---
-Dr. Ming LI is an Assistant Professor at School of Intelligent Systems Science and Engineering, Jinan University (Zhuhai Campus). He received his PhD degree and master degree from Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong. He also obtained two Bachelor degrees in computer science and finance respectively at South China University of Technology. Prior to joining JNU, he was a post-doctoral fellow at Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong. He has conducted research projects in the field of Industrial Blockchain for Manufacturing and Logistics with substantial government and industrial grants ( Accumulated Over 1 Million RMB). He has published a dozen SCI research papers on leading international journals including IJPE, IJPR, RCIM,CAIE, and etc.
-He has also applied dozens of patents and copyrights. Besides, He is also the co-founder of Comma Technology Limited, a national high-tech enterprise, with accumulated venture capital investment over 50 million RMB.
+Dr. Ming LI is currently a Research Assistant Professor at Department of Industrial and Systems Engineering (ISE), The Hong Kong Polytechnic University. Prior to joining ISE, Dr. LI was a Lecturer at School of Intelligent Systems Science and Engineering, Jinan University and Post-Doctoral Fellow at the HKU-ZIRI Laboratory for Physical Internet (pi-Lab), The University of Hong Kong. He received his PhD degree and master’s degree (Distinction) from Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong, in 2018 and 2013 respectively. He also obtained dual Bachelor degrees in Computer Science (major) and Finance (minor) at South China University of Technology in 2012. He has conducted research projects in the field of Industrial Blockchain and Digital Twin for Smart Manufacturing and Logistics with substantial government and industrial grants. He has published a series of papers on leading international journals including IJPE, IJPR, RCIM, CAIE, and etc. He has also obtained dozens of patents and copyrights. He is the Core Member of the 2019 Guangdong Special Support Talent Program – Innovation and Entrepreneurship Leading Team.

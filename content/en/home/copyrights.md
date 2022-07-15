@@ -50,3 +50,15 @@ columns: "1"
 [15] Blockchain-based multi-dimensional supervision platform for pharmaceutical supply chain V1.0, 2021SR0594073
 
 [16] Digital twin control system for heterogeneous 3D printers V1.0, 2021SR0594072.
+
+[17] RFID experimental platform V1.0, 2021SR1181214.
+
+[18] IoT Experimental platform V1.0, 2021SR1188143.
+
+[19] An optimization algorithm platform for new retailing city logistics V1.0, 2021SR1795381.
+
+[20] Blockchain-based billing management system for cloud warehousing service V1.0, 2021SR1795380.
+
+[21] A multi-dimensional fusion digital twin system for nuclear power units V1.0, 2022SR0598619.
+
+[22] HF campus card experiment system based on RFID experiment platform V1.0, 

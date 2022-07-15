@@ -40,3 +40,4 @@ columns: "1"
 [10] Bian Jiang, Liu Zhenhuan, Luo Hao, Kong Xiangtianrui, Shao Saijun, **Li Ming**, et.al, Modular warehousing system, CN107054958B, 03/01/2020.
 
 [11] Kong Xiangtianrui, Huang Guoquan, Shao Saijun, Yang Huibin, Luo Hao, **Li Ming**, Portable intelligence pen with extend function, CN204759368U, 11/11/2015.
+

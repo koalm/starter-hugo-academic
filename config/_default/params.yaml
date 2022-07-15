@@ -14,18 +14,18 @@ font_size: L
 
 site_type: Person
 local_business_type: 'education'
-org_name: 'Jinan University'
-description: 'JNU Li Ming'
+org_name: 'The Hong Kong Polytechnic University'
+description: 'PolyU Li Ming'
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: limingATjnu.edu.cn
+email: ming.liATpolyu.edu.hk
 address:
-  street: RM635, Adminitration Building, No.206 Qianshan
-  city: Zhuhai
-  region: Guangdong
-  postcode: '519070'
+  street: CF412, The Hong Kong Polytechnic University, Hung Hom, Kowloon
+  city: Hong Kong
+  region:
+  postcode: ''
   country: P.R.China
   country_code: CHN
 coordinates:
@@ -88,7 +88,7 @@ copyright_license:
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
-  notice: 'Last Update: Mar 2022'
+  notice: 'Last Update: Jul 2022'
 abstract_length: 135
 plugins_js: []
 avatar:
