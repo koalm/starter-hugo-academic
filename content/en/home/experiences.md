@@ -31,7 +31,7 @@ experience:
     location: HKSAR
     date_start: '2022-06-30'
     date_end: ''
-  - 
+
   - title: Lecturer
     company: Jinan University
     company_url: 'https://www.jnu.edu.cn'
