@@ -28,7 +28,7 @@ social:
     
 organizations:
   - name: 香港理工大学工业及系统工程学系
-    url: https://sisse.jnu.edu.cn/2019/0606/c12456a323903/page.htm
+    url: https://www.polyu.edu.hk/ise/people/academic-staff/ming-li/
 education:
   courses:
     - course: 哲学博士（工业及制造系统工程）

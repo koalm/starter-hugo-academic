@@ -28,7 +28,7 @@ social:
     
 organizations:
   - name: Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University
-    url: https://sisse.jnu.edu.cn/2019/0606/c12456a323903/page.htm
+    url: https://www.polyu.edu.hk/ise/people/academic-staff/ming-li/
 education:
   courses:
     - course: PhD in Industrial and Manufacturing Systems Engineering
