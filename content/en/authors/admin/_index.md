@@ -34,7 +34,7 @@ education:
     - course: PhD in Industrial and Manufacturing Systems Engineering
       institution: The University of Hong Kong (HKSAR)
       year: 2018
-    - course: MSc in Industrial Engineering and Logistics Management
+    - course: MSc in Industrial Engineering and Logistics Management (Distinction)
       institution: The University of Hong Kong (HKSAR)
       year: 2013
     - course: BEng in Computer Science and Technology (Major)

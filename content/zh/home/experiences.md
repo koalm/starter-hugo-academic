@@ -33,7 +33,7 @@ experience:
   - title: 讲师
     company: 暨南大学智能科学与工程学院
     company_url: 'https://sisse.jnu.edu.cn/'
-    company_logo: polyu
+    company_logo: jnu
     location: 广东省珠海市
     date_start: '2019-03-15'
     date_end: '2022-06-29'

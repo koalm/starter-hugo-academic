@@ -26,3 +26,5 @@ columns: "1"
 - [UG] Experiments of software system analysis (2019 Spring/2020 Spring/2021 Spring) **Top 10% Courses**
 - [UG] Fundamentals of Industrial Engineering (2021 Fall)
 - [PG] Introduction to Engineering Management (2022 Spring)
+- [UG] ISE431 Engineering cost and evaluation (2022 Fall)
+- [UG] ISE3014 Warehousing management and technologies (2023 Spring)
