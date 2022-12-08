@@ -33,7 +33,7 @@ columns: "1"
 
 [9] 2021-2023: Blockchain-based Digital Twin Encapsulation Sharing Method for Heterogeneous Social Manufacturing Resources, *National Natural Science Foundation of China (NSFC) (No.52005218)*, RMB 240,000, **PI**
 
-[8] 2021-2024: Robust Optimization and Multi-stage Combinatorial Auction for Dynamic Waste Collection Synchronization, *National Natural Science Foundation of China (NSFC) (No.72071093)*, RMB 490,000, **Key Participant (Rank 3/7)**
+[8] 2021-2024: Robust Optimization and Multi-stage Combinatorial Auction for Dynamic Waste Collection Synchronization, *National Natural Science Foundation of China (NSFC) (No.72071093)*, RMB 490,000, **Co-I**
 
 [7] 2020-2022: Blockchain-driven Multi-dimensional Supervision Method for Digital Twin-based Medical Supply Chain, *Guangdong Basic and Applied Basic Research Foundation (No.2019A1515110296)*, RMB 100,000, **PI**
 

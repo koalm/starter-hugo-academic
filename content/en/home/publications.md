@@ -18,7 +18,7 @@ subtitle: (* refers to corresponding author)
 design:
 columns: "1"
 ---
-[11] **Li, M.**, Feng, J., Xu, S. (2023). Toward resilient cloud warehousing via a blockchain-enabled auction approach. *Frontiers of Engineering Management*, Accepted.
+[11] **Li, M.**, Feng, J., Xu, S. * (2023). Toward resilient cloud warehousing via a blockchain-enabled auction approach. *Frontiers of Engineering Management*, Accepted.
 
 [10] Li, M., **Li, M.** *, Ding, H., Ling, S., & Huang, G. Q. (2022). Graduation-inspired synchronization for industry 4.0 planning, scheduling, and execution. *Journal of Manufacturing Systems*, 64, 94-106.
 
