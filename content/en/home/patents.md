@@ -19,7 +19,7 @@ design:
 columns: "1"
 ---
 
-[9] 1**Li Ming**, Shi Zheng, Yang Guanghua, Assembled goods shelves unit and combination goods shelves, *Chinese utility model*, ZL2022205110002.7, 29/07/2022.
+[9] **Li Ming**, Shi Zheng, Yang Guanghua, Assembled goods shelves unit and combination goods shelves, *Chinese utility model*, ZL2022205110002.7, 29/07/2022.
 
 [8] **Li Ming**, Zhao Zhiheng, Shen Leidi, An order picking system, *Chinese utility model*, ZL202023338283.0, 08/02/2022.
 
