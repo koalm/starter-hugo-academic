@@ -18,8 +18,9 @@ subtitle:
 design:
 columns: "1"
 ---
+[15] 2023-2026: iFactory: Cyber-Physical Factory that Mass Customizes Products, *RGC CRF (No.C7076-22GF)*, HKD 6,271,840, **Co-PI**
 
-[14] 2023-2027: SynchronHub: Cyber-Physical Internet for Synchronizing Cross-Border Logistics Hubs in the Greater Bay Area (GBA), *RGC Theme-based Research Scheme (No.T32-707/22-N)*, HKD 40,301,000, **Co-PI**
+[14] 2023-2027: SynchronHub: Cyber-Physical Internet for Synchronizing Cross-Border Logistics Hubs in the Greater Bay Area (GBA), *RGC TBRS (No.T32-707/22-N)*, HKD 40,301,000, **Co-PI**
 
 [13] 2023-2025: Blockchain-based multidimensional privacy-preserving governance approach for multimodal medical big data, *General Program of GDSTC*, RMB 100,000, **PI**
 
