@@ -18,9 +18,13 @@ subtitle: (* refers to corresponding author)
 design:
 columns: "1"
 ---
-[11] **Li, M.**, Feng, J., Xu, S. * (2023). Toward resilient cloud warehousing via a blockchain-enabled auction approach. *Frontiers of Engineering Management*, Accepted.
+[13] **Li, M.**, Huang, L., Xu, G.*, Kong, B. (2023). A Parallel Particle Swarm Optimization Framework Based on a Fork-Join Thread Pool Using a Work-Stealing Mechanism. *Applied Soft Computing*, 2023, 110537. [doi.org/10.1016/j.asoc.2023.110537](https://doi.org/10.1016/j.asoc.2023.110537)
 
-[10] Li, M., **Li, M.** *, Ding, H., Ling, S., & Huang, G. Q. (2022). Graduation-inspired synchronization for industry 4.0 planning, scheduling, and execution. *Journal of Manufacturing Systems*, 64, 94-106.
+[12] Jiang, Y., **Li, M.** *, Wu, W., Wu, X., Zhang, X., Huang, X., ... & Huang, G. G. (2023). Multi-domain ubiquitous digital twin model for information management of complex infrastructure systems. *Advanced Engineering Informatics*, 56, 101951. [doi.org/10.1016/j.aei.2023.101951](https://doi.org/10.1016/j.aei.2023.101951)
+
+[11] **Li, M.**, Feng, J., Xu, S. * (2023). Toward resilient cloud warehousing via a blockchain-enabled auction approach. *Frontiers of Engineering Management*, 10(1),20-38. [doi.org/10.1007/s42524-022-0224-2](https://doi.org/10.1007/s42524-022-0224-2)
+
+[10] Li, M., **Li, M.** *, Ding, H., Ling, S., & Huang, G. Q. (2022). Graduation-inspired synchronization for industry 4.0 planning, scheduling, and execution. *Journal of Manufacturing Systems*, 64, 94-106. [doi.org/10.1016/j.jmsy.2022.05.017](https://doi.org/10.1016/j.jmsy.2022.05.017)
 
 [9] **Li, M.**, Shao, S. *, Li, Y., Zhang, H., Zhang, N., & He, Y. (2022). A Physical Internet (PI) based inland container transportation problem with selective non-containerized shipping requests. *International Journal of Production Economics*, 245, 108403. [doi.org/10.1016/j.ijpe.2021.108403](https://doi.org/10.1016/j.ijpe.2021.108403)
 

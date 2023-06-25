@@ -18,11 +18,15 @@ subtitle:
 design:
 columns: "1"
 ---
+[17] 2023-2025: Out-of-Order Based Smart Production-Logistics Instruction System, *Departmental General Research Fund*, HKD 400,000, **PI**
+
+[16] 2023-2025: Out-of-Order Synchronization for Industry 4.0 Assembly Systems, *Project of RIAM, PolyU (No.P0046130)*, HKD 500,000, **PI**
+
 [15] 2023-2026: iFactory: Cyber-Physical Factory that Mass Customizes Products, *RGC CRF (No.C7076-22GF)*, HKD 6,271,840, **Co-PI**
 
 [14] 2023-2027: SynchronHub: Cyber-Physical Internet for Synchronizing Cross-Border Logistics Hubs in the Greater Bay Area (GBA), *RGC TBRS (No.T32-707/22-N)*, HKD 40,301,000, **Co-PI**
 
-[13] 2023-2025: Blockchain-based multidimensional privacy-preserving governance approach for multimodal medical big data, *General Program of GDSTC*, RMB 100,000, **PI**
+[13] 2023-2025: Blockchain-based multidimensional privacy-preserving governance approach for multimodal medical big data, *General Program of GDSTC (No.2023A1515011203)*, RMB 100,000, **PI**
 
 [13] 2022-2024: Blockchain-based C2M Production-logistics Resource Twining Approach, *Science and Technology Projects in Guangzhou (No.202201010329)*, RMB 50,000, **PI**
 
