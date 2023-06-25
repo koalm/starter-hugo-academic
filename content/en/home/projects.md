@@ -18,7 +18,7 @@ subtitle:
 design:
 columns: "1"
 ---
-[17] 2023-2025: Out-of-Order Based Smart Production-Logistics Instruction System, *Departmental General Research Fund*, HKD 400,000, **PI**
+[17] 2023-2025: Out-of-Order Based Smart Production-Logistics Instruction System, *Departmental General Research Fund (No.P0045748)*, HKD 400,000, **PI**
 
 [16] 2023-2025: Out-of-Order Synchronization for Industry 4.0 Assembly Systems, *Project of RIAM, PolyU (No.P0046130)*, HKD 500,000, **PI**
 
