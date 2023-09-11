@@ -28,7 +28,7 @@ columns: "1"
 
 [13] **Li Ming**, Zhao Zhiheng, Shen Leidi, A stocktaking system, *Chinese utility model*, ZL202023338130.6, 03/12/2021.(Granted)
 
-[12] **Li Ming**, Peng Hao, Scanner(R3), *Chinese design patent*, ZL201930316741.4, 10/01/2020.(Granted)
+[12] **Li Ming**, Peng Hao, Scanner (R3), *Chinese design patent*, ZL201930316741.4, 10/01/2020.(Granted)
 
 [11] **Li Ming**, Peng Hao, Positioner, *Chinese design patent*, ZL201930316743.3, 10/01/2020.(Granted)
 
@@ -36,7 +36,7 @@ columns: "1"
 
 [9] **Li Ming**, Peng Hao, Scanner, *Chinese design patent*, ZL201930316204.X, 27/12/2019.(Granted)
 
-[8] **Li Ming**, Peng Hao, Scanner(R2), *Chinese design patent*, ZL201930316198.8, 27/12/2019.(Granted)
+[8] **Li Ming**, Peng Hao, Scanner (R2), *Chinese design patent*, ZL201930316198.8, 27/12/2019.(Granted)
 
 [7] **Li Ming**, Ren Puyao, Folding charging device, *Chinese utility model*, ZL201920917143.7, 27/12/2019.(Granted)
 
