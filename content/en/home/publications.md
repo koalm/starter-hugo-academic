@@ -18,6 +18,10 @@ subtitle: (* refers to corresponding author)
 design:
 columns: "1"
 ---
+[15] Li, M., **Li, M.** *, Guo, D., Qu, T., & Huang, G. Q. (2023). Real-Time Data-Driven Out-of-Order Synchronization for Production and Intralogistics in Multiresource-Constrained Assembly Systems. IEEE Transactions on Systems, Man, and Cybernetics: Systems.[doi.org/10.1109/TSMC.2023.3298927](https://doi.org/10.1109/TSMC.2023.3298927)
+
+[14] Yang, Z., Xie, Y., **Li, M.** *, & Huang, G. Q. (2023). GazeGraphVis: Visual analytics of gaze behaviors at multiple graph levels for path tracing tasks. *Advanced Engineering Informatics*, 57, 102111. [doi.org/10.1016/j.aei.2023.102111](https://doi.org/10.1016/j.aei.2023.102111)
+
 [13] **Li, M.**, Huang, L., Xu, G.*, Kong, B. (2023). A Parallel Particle Swarm Optimization Framework Based on a Fork-Join Thread Pool Using a Work-Stealing Mechanism. *Applied Soft Computing*, 2023, 110537. [doi.org/10.1016/j.asoc.2023.110537](https://doi.org/10.1016/j.asoc.2023.110537)
 
 [12] Jiang, Y., **Li, M.** *, Wu, W., Wu, X., Zhang, X., Huang, X., ... & Huang, G. G. (2023). Multi-domain ubiquitous digital twin model for information management of complex infrastructure systems. *Advanced Engineering Informatics*, 56, 101951. [doi.org/10.1016/j.aei.2023.101951](https://doi.org/10.1016/j.aei.2023.101951)
