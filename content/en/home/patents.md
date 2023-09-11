@@ -32,7 +32,7 @@ columns: "1"
 
 [11] **Li Ming**, Peng Hao, Positioner, *Chinese design patent*, ZL201930316743.3, 10/01/2020.(Granted)
 
-[10] **Li Ming**, Peng Hao, Scanner (hand-backed plate version), ZL201930316195.4, 03/01/2020.(Granted)
+[10] **Li Ming**, Peng Hao, Scanner (hand-backed plate version), *Chinese design patent*, ZL201930316195.4, 03/01/2020.(Granted)
 
 [9] **Li Ming**, Peng Hao, Scanner, *Chinese design patent*, ZL201930316204.X, 27/12/2019.(Granted)
 
