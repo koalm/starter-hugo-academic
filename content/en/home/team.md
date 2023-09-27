@@ -43,7 +43,8 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: masonry
+ # view: masonry
+  view: 5
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
