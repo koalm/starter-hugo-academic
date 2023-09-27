@@ -28,7 +28,7 @@ content:
   - name: All
     tag: '*'
   - name: PhD Student
-    tag: Demo
+    tag: Dem
   - name: Master Student
     tag: master
   - name: Graduates
