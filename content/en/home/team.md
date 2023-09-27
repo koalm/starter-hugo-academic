@@ -28,7 +28,7 @@ content:
   - name: All
     tag: '*'
   - name: PhD Student
-    tag: 'Dem'
+    tag: phd
   - name: Master Student
     tag: master
   - name: Graduates
@@ -47,7 +47,7 @@ design:
   view: 3
   flip_alt_rows: true 
   background: {}
-  spacing: {padding: [0, 0, 0, 0]}
+  spacing: {padding: [20, 0, 0, 0]}
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
