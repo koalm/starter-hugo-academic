@@ -27,9 +27,9 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: PhD Student
+  - name: PhD
     tag: phd
-  - name: Master Student
+  - name: Master
     tag: master
   - name: Graduates
     tag: graduates
