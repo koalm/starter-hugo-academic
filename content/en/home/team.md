@@ -30,9 +30,9 @@ content:
   - name: PhD Student
     tag: 'Dem'
   - name: Master Student
-    tag:master
+    tag: master
   - name: Graduates
-    tag:graduates
+    tag: graduates
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
