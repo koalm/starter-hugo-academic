@@ -25,7 +25,7 @@ main:
   - name: Copyrights
     url: '#copyrights'
     weight: 70
-  - name: Adademic Services
+  - name: Services
     url: '#services'
     weight: 80
   - name: Team

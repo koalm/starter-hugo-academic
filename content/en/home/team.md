@@ -27,7 +27,7 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: PhD
+  - name: Ph.D.
     tag: phd
   - name: Master
     tag: master
@@ -36,7 +36,7 @@ content:
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: '2'
 
   # Toggle between the various page layout types.
   #   1 = List
