@@ -15,7 +15,7 @@ subtitle: ''
 content:
   # Page type to display. E.g. project.
   page_type: team
-  sort_by: 'date'
+  sort_by: 'Date'
   sort_ascending: true
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -29,13 +29,12 @@ content:
   - name: All
     tag: '*'
   - name: Ph.D Students
-    tag: Ph.D
+    tag: Ph.D.
   - name: Master Students
     tag: Master
   - name: Graduates
     tag: Graduates
-
-
+  
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
