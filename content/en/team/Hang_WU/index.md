@@ -1,6 +1,6 @@
 ---
 title: Hang WU  
-summary: Ph.D @ PolyU 2022/23 <br> Field：Cyber-physical Networking and Routing <br> B.E. (Jinan University)
+summary: Ph.D Student @ PolyU 2022/23 <br> Field：Cyber-physical Networking and Routing <br> B.E. (Jinan University)
 tags:
 - Ph.D
 
