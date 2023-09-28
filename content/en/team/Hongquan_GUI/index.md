@@ -4,7 +4,7 @@ summary: Ph.D Student @ PolyU 2023/24 <br> Field of Study：Industrial Digitaliz
 tags:
 - Ph.D
 
-date: 2023-05-01
+date: 2023-09-01
 # external_link: http://github.com
 
 ---
