@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 420
+weight: 380
 
 title: Team
 subtitle: ''
