@@ -15,8 +15,11 @@ subtitle: ''
 content:
   # Page type to display. E.g. project.
   page_type: team
-  sort_by: 'Date'
+
+  sort_by: 'date'
+
   sort_ascending: true
+
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
 
@@ -51,7 +54,7 @@ design:
   background: {}
   spacing:
     padding: ["20px","0","20px","0"]
-  flip_alt_rows: true
+ # flip_alt_rows: false
   # For Showcase view, flip alternate rows?
   
 ---
