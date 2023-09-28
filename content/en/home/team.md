@@ -18,7 +18,7 @@ content:
 
   sort_by: 'order'
 
-  sort_ascending: true
+  sort_ascending: false
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
