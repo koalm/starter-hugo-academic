@@ -47,7 +47,7 @@ design:
   view: 3
   flip_alt_rows: true 
   background: {}
-  spacing: {padding: [0, 0, 0, 0]}
+  spacing: {padding: [20, 20, 20, 20]}
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
