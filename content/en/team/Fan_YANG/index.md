@@ -1,8 +1,8 @@
 ---
 title: Fan YANG  
-summary: Ph.D. @ PolyU 2022/23 <br> Field of Study：Aviation Maintenance Repair and Operating  
+summary: Ph.D. @ PolyU 2022/23 <br> Study Field：Aviation Maintenance Repair and Operating  
 tags:
-- phd
+- Ph.D.
 
 date: 2023-05-01
 # external_link: http://github.com

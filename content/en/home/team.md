@@ -28,11 +28,11 @@ content:
   - name: All
     tag: '*'
   - name: Ph.D. Student
-    tag: phd
+    tag: Ph.D.
   - name: Master Student
-    tag: master
+    tag: Master
   - name: Graduates
-    tag: graduates
+    tag: Graduates
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
