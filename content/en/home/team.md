@@ -27,9 +27,9 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Ph.D.
+  - name: Ph.D. Student
     tag: phd
-  - name: Master
+  - name: Master Student
     tag: master
   - name: Graduates
     tag: graduates
@@ -47,7 +47,7 @@ design:
   view: 3
   flip_alt_rows: true 
   background: {}
-  spacing: {padding: [20, 20, 0, 0]}
+  spacing: {padding: [0, 0, 0, 0]}
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
