@@ -35,7 +35,7 @@ content:
     tag: Graduates
 
   sort_by: 'date'
-  sort_ascending: true
+  sort_ascending: false
 
 
 
