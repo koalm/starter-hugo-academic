@@ -25,11 +25,11 @@ main:
   - name: Copyrights
     url: '#copyrights'
     weight: 70
-  - name: Services
-    url: '#services'
-    weight: 80
   - name: Team
     url: '#team'
+    weight: 80
+  - name: Services
+    url: '#services'
     weight: 90
   - name: Contact
     url: '#contact'
