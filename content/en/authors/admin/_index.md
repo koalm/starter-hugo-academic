@@ -2,8 +2,8 @@
 title: Dr.Ming LI
 role: Research Assistant Professor
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests industrial blockchain, digital twin/cyber-physical system and smart manufacturing
+
 interests:
   - Blockchain Technology
   - Cyber Physical System
