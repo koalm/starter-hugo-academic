@@ -44,10 +44,12 @@ design:
   #   3 = Card
   #   5 = Showcase
  # view: masonry
-  view: 3
+  view: 2
   flip_alt_rows: true 
   background: {}
-  spacing: {padding: [2, 2, 2, 2]}
+  spacing:
+    padding: ["20px","0","20px","0"]
+  flip_alt_rows: true
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  
 ---
