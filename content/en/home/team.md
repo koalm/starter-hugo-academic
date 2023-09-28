@@ -15,7 +15,8 @@ subtitle: ''
 content:
   # Page type to display. E.g. project.
   page_type: team
-
+  sort_by: 'date'
+  sort_ascending: true
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
 
@@ -27,16 +28,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Ph.D Student
+  - name: Ph.D Students
     tag: Ph.D
-  - name: Master Student
+  - name: Master Students
     tag: Master
   - name: Graduates
     tag: Graduates
-
-  sort_by: 'date'
-  sort_ascending: true
-
 
 
 design:
