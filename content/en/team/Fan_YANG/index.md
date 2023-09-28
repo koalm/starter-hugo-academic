@@ -4,7 +4,7 @@ summary: Ph.D Student @ PolyU 2022/23 <br> Field of Study：Aviation Maintenance
 tags:
 - PhD
 
-date: 2023-05-01
+date: 2023-09-26
 order: 1
 # external_link: http://github.com
 

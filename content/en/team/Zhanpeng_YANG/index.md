@@ -4,7 +4,7 @@ summary: Ph.D Student @ PolyU 2023/24 <br> Field of Study：Human-Centric Manufa
 tags:
 - PhD
 
-date: 2023-09-27
+date: 2023-09-24
 order: 5
 # external_link: http://github.com
 
