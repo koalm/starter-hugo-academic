@@ -1,7 +1,8 @@
 ---
 title: Hang WU  
-summary: Ph.D.@PolyU 2022/23  
-Field of Study Cyber-physical Networking and Routing  
+summary: 
+- Ph.D.@PolyU 2022/23
+- Field of Study：Cyber-physical Networking and Routing  
 tags:
 - phd
 
