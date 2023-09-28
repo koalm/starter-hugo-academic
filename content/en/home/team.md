@@ -16,7 +16,7 @@ content:
   # Page type to display. E.g. project.
   page_type: team
 
-  sort_by: 'date'
+  sort_by: 'order'
 
   sort_ascending: true
 
@@ -33,7 +33,7 @@ content:
   - name: All
     tag: '*'
   - name: Ph.D Students
-    tag: Ph.D
+    tag: PhD
   - name: Master Students
     tag: Master
   - name: Graduates
