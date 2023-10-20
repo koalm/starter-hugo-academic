@@ -18,6 +18,8 @@ subtitle: (* refers to corresponding author)
 design:
 columns: "1"
 ---
+[16] **Li, M.**, Li, M., Harish, A. R., Huang, G. Q. (2023). Blockchain-Based Fine-Grained Digital Twin Sharing Framework for Social Manufacturing. *Advanced Engineering Informatics*, Accepted
+
 [15] Li, M., **Li, M.** *, Guo, D., Qu, T., & Huang, G. Q. (2023). Real-Time Data-Driven Out-of-Order Synchronization for Production and Intralogistics in Multiresource-Constrained Assembly Systems. IEEE Transactions on Systems, Man, and Cybernetics: Systems.[doi.org/10.1109/TSMC.2023.3298927](https://doi.org/10.1109/TSMC.2023.3298927)
 
 [14] Yang, Z., Xie, Y., **Li, M.** *, & Huang, G. Q. (2023). GazeGraphVis: Visual analytics of gaze behaviors at multiple graph levels for path tracing tasks. *Advanced Engineering Informatics*, 57, 102111. [doi.org/10.1016/j.aei.2023.102111](https://doi.org/10.1016/j.aei.2023.102111)

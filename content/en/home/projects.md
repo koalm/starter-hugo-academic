@@ -18,39 +18,34 @@ subtitle:
 design:
 columns: "1"
 ---
-[17] 2023-2025: Out-of-Order Based Smart Production-Logistics Instruction System, *Departmental General Research Fund (No.P0045748)*, HKD 400,000, **PI**
+[15] 2023-2025: Out-of-Order Based Smart Production-Logistics Instruction System, *Departmental General Research Fund (No.P0045748)*, HKD 400,000, **PI**
 
-[16] 2023-2025: Out-of-Order Synchronization for Industry 4.0 Assembly Systems, *Project of RIAM, PolyU (No.P0046130)*, HKD 500,000, **PI**
+[14] 2023-2025: Out-of-Order Synchronization for Industry 4.0 Assembly Systems, *Projects of RIAM, PolyU (No.P0046130)*, HKD 500,000, **PI**
 
-[15] 2023-2026: iFactory: Cyber-Physical Factory that Mass Customizes Products, *RGC CRF (No.C7076-22GF)*, HKD 6,271,840, **Co-PI**
+[13] 2023-2026: iFactory: Cyber-Physical Factory that Mass Customizes Products, *RGC Collaborative Research Fund (No.C7076-22GF)*, HKD 1,184,000/6,364,340, **Co-PI**
 
-[14] 2023-2027: SynchronHub: Cyber-Physical Internet for Synchronizing Cross-Border Logistics Hubs in the Greater Bay Area (GBA), *RGC TBRS (No.T32-707/22-N)*, HKD 40,301,000, **Co-PI**
+[12] 2023-2027: SynchronHub: Cyber-Physical Internet for Synchronizing Cross-Border Logistics Hubs in the Greater Bay Area (GBA), *RGC Theme-based Research Scheme (No.T32-707/22-N)*, HKD 7,685,000/40,301,000, **Co-PI**
 
-[13] 2023-2025: Blockchain-based multidimensional privacy-preserving governance approach for multimodal medical big data, *General Program of GDSTC (No.2023A1515011203)*, RMB 100,000, **PI**
+[11] 2023-2025: Blockchain-based multidimensional privacy-preserving governance approach for multimodal medical big data, *Natural Science Foundation of Guangdong Province (No.2023A1515011203)*, RMB 100,000, **PI**
 
-[13] 2022-2024: Blockchain-based C2M Production-logistics Resource Twining Approach, *Science and Technology Projects in Guangzhou (No.202201010329)*, RMB 50,000, **PI**
+[10] 2022-2024: Blockchain-based C2M Production-logistics Resource Twining Approach, *Science and Technology Projects in Guangzhou (No.202201010329)*, RMB 50,000, **PI**
 
-[12] 2022-2024: Blockchain-enabled Privacy-preserving Collaborative Execution Approach for Data-driven ESG Assessment, *Start-up Fund of PolyU (No.P0043406)*, HKD 250,000, **PI**
+[9] 2022-2024: Blockchain-enabled Privacy-preserving Collaborative Execution Approach for Data-driven ESG Assessment, *Start-up Fund of PolyU (No.P0043406)*, HKD 250,000, **PI**
 
-[11] 2021-2022: Blockchain-based Privacy Computing Method for Logistics Algorithm, *Industrial Project (No.DH-CG-202203025)*, RMB 75,000, **PI**
+[8] 2021-2022: Blockchain-based Privacy Computing Method for Logistics Algorithm, *Industrial Project (No.DH-CG-202203025)*, RMB 75,000, **PI**
 
-[10] 2021-2022: Blockchain-based IoT Edge Computing Gateway and Data Service Platform, *Industrial Project (No.ZX20211282)/Guangdong Provincial Enterprise Technology Correspondent Project (GDKTP2021051200)*, RMB 250,000, **PI**
+[7] 2021-2022: Blockchain-based IoT Edge Computing Gateway and Data Service Platform, *Guangdong Provincial Enterprise Technology Correspondent Project (GDKTP2021051200)*, RMB 250,000, **PI**
 
-[9] 2021-2023: Blockchain-based Digital Twin Encapsulation Sharing Method for Heterogeneous Social Manufacturing Resources, *National Natural Science Foundation of China (NSFC) (No.52005218)*, RMB 240,000, **PI**
+[6] 2021-2023: Blockchain-based Digital Twin Encapsulation Sharing Method for Heterogeneous Social Manufacturing Resources, *National Natural Science Foundation of China (NSFC) (No.52005218)*, RMB 240,000, **PI**
 
-[8] 2021-2024: Robust Optimization and Multi-stage Combinatorial Auction for Dynamic Waste Collection Synchronization, *National Natural Science Foundation of China (NSFC) (No.72071093)*, RMB 490,000, **Co-I**
+[5] 2020-2022: Blockchain-driven Multi-dimensional Supervision Method for Digital Twin-based Medical Supply Chain, *Guangdong Basic and Applied Basic Research Foundation (No.2019A1515110296)*, RMB 100,000, **PI**
 
-[7] 2020-2022: Blockchain-driven Multi-dimensional Supervision Method for Digital Twin-based Medical Supply Chain, *Guangdong Basic and Applied Basic Research Foundation (No.2019A1515110296)*, RMB 100,000, **PI**
+[4] 2020-2022: Blockchain-based Public Logistics Twins Service Method for C2M Industrial Parks, *Innovation Project of Guangdong Provincial Universities (No.2020KTSCX013)*, RMB 90,000, **PI**
 
-[6] 2020-2022: Blockchain-based Public Logistics Twins Service Method for C2M Industrial Parks, *Innovation Project of Guangdong Provincial Universities (No.2020KTSCX013)*, RMB 90,000, **PI**
+[3] 2020-2022: Blockchain-driven Logistics Twins Synchronization in C2M Industrial Parks, *Fundamental Research Funds for the Central Universities (No.21620359)*, RMB 90,000, **PI**
 
-[5] 2020-2022: Blockchain-driven Logistics Twins Synchronization in C2M Industrial Parks, *Fundamental Research Funds for the Central Universities (No.21620359)*, RMB 90,000, **PI**
+[2] 2020-2022: Industrial Wearable-enabled Multi-mode Picking and Sorting Twin System for E-commerce Logistics, *Industrial Project (No.ZX20200552)*, RMB 101,000, **PI**
 
-[4] 2020-2022: Industrial Wearable-enabled Multi-mode Picking and Sorting Twin System for E-commerce Logistics, *Industrial Project (No.ZX20200552)*, RMB 101,000, **PI**
+[1] 2019-2020: Construction of Interactive E-commerce Logistics Practice Teaching System Based on Digital Twin Technology, *Teaching Reform Project of Jinan University*, RMB10,000, **PI**
 
-[3] 2019-2022: Data-driven Intelligent Decision-making Technology and System for Manufacturing Enterprises, *National Key R&D Program of China (No.2019YFB1705401)*, RMB 770,000, **Co-PI**
-
-[2] 2019-2020: Construction of Interactive E-commerce Logistics Practice Teaching System Based on Digital Twin Technology, *Teaching Reform Project of Jinan University*, RMB10,000, **PI**
-
-[1] 2018-2019 Trial: RFID-Enabled Building Information Modeling (BIM) Platform for Prefabrication Housing Production in Hong Kong, *Hong Kong Innovation and Technology Fund (ITT/003/18LP)*, HKD 2,990,000, **PM**
 

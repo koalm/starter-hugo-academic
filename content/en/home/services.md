@@ -42,5 +42,5 @@ columns: "1"
 - Robotics and Computer-Integrated Manufacturing
 - Computers & Industrial Engineering
 - Annals of Operations Research
-- IET Collaborative Intelligent Manufacturing
-- Heliyon
+- Advanced Engineering Informatics
+- Transportation Research: Part E
