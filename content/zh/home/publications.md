@@ -19,7 +19,7 @@ design:
 columns: "1"
 ---
 
-[16] **Li, M.**, Li, M., Harish, A. R., Huang, G. Q. (2023). Blockchain-Based Fine-Grained Digital Twin Sharing Framework for Social Manufacturing. *Advanced Engineering Informatics*, Accepted
+[16] **Li, M.**, Li, M., Harish, A. R., Huang, G. Q. (2023). Blockchain-Based Fine-Grained Digital Twin Sharing Framework for Social Manufacturing. *Advanced Engineering Informatics*, 58, 102225. [doi.org/10.1016/j.aei.2023.102225](https://doi.org/10.1016/j.aei.2023.102225)
 
 [15] Li, M., **Li, M.** *, Guo, D., Qu, T., & Huang, G. Q. (2023). Real-Time Data-Driven Out-of-Order Synchronization for Production and Intralogistics in Multiresource-Constrained Assembly Systems. IEEE Transactions on Systems, Man, and Cybernetics: Systems.[doi.org/10.1109/TSMC.2023.3298927](https://doi.org/10.1109/TSMC.2023.3298927)
 
