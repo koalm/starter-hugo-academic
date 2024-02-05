@@ -18,6 +18,10 @@ subtitle:
 design:
 columns: "1"
 ---
+[17] 2024-2025: Blockchain-enabled creditable energy trading framework for multi-level virtual power plants, *Collaborative project*, HKD 400,000, **PI**
+
+[16] 2024-2027: Cyber-physical workstation for garment factory, *Centre for Transformative Garment Production (InnoHK, P0049228)*, HKD 2,253,900, **PI**
+
 [15] 2023-2025: Out-of-Order Based Smart Production-Logistics Instruction System, *Departmental General Research Fund (No.P0045748)*, HKD 400,000, **PI**
 
 [14] 2023-2025: Out-of-Order Synchronization for Industry 4.0 Assembly Systems, *Projects of RIAM, PolyU (No.P0046130)*, HKD 500,000, **PI**

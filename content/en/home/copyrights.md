@@ -66,3 +66,9 @@ columns: "1"
 [23] LF access control card experimental system based on RFID experimental platform V1.0, 2022SR0598601.
 
 [24] UHF warehousing experimental system based on RFID experimental platform V1.0, 2022SR0598581.
+
+[25] Blockchain-based billing management system for cloud warehousing service V2.0, 2022SR0598603.
+
+[26] Digital Asset Privacy Depository System V1.0, 2022SR0665325.
+
+[27] Trip Data Privacy Supervision System for Epidemic Prevention and Control V1.0, 2022SR0665324.
