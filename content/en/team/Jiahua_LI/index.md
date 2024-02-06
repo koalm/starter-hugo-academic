@@ -1,6 +1,6 @@
 ---
 title: Jiahua LI  
-summary: Master Student @ JNU 2021/22  <br> Field of Study：Industrial Engineering <br> Job: Front-end Developer @ SF Technology
+summary: Master Student @ JNU 2021/22  <br> Field of Study: Industrial Engineering <br> Job: Front-end Developer @ SF Technology
 tags:
 - Graduates
 
