@@ -1,6 +1,6 @@
 ---
 title: Xidian HUANG  
-summary: Master Student @ JNU & MUST 2020/21 <br> Field of Study: Industrial Engineering <br> Job: Product Manager @ Nextas
+summary: Master Student @ JNU & MUST 2020/21 <br> Field of Study：Industrial Engineering <br> Job：Product Manager @ Nextas
 tags:
 - Graduates
 

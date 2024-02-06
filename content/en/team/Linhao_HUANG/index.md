@@ -1,6 +1,6 @@
 ---
 title: Linhao HUANG  
-summary: Master Student @ JNU 2021/22 <br> Field of Study: Industrial Engineering <br> Job: Logistics Engineer @ BYD Auto
+summary: Master Student @ JNU 2021/22 <br> Field of Study：Industrial Engineering <br> Job：Logistics Engineer @ BYD Auto
 tags:
 - Graduates
 
