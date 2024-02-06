@@ -22,11 +22,6 @@ columns: "1"
 **Committee Member**
 - Management and Decision Sciences Society, Chinese Academy of Management
 
-**Organizing Committee Chair**
-- 
-
-
-
 **Conference Committee**	
 
 - Program Chair: 2024 Annual International Conference for Chinese Scholars in Industrial Engineering (CSIE2024) and the 14th Forum for the Council of Chinese Industrial Engineering and Logistics Management Department Heads (CIEDH2024), 2024, Hong Kong
