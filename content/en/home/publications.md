@@ -32,7 +32,7 @@ columns: "1"
 
 [22] Harish, A. R., Wu, W., **Li, M.**, & Huang, G. Q. (2023). Blockchain-enabled digital asset tokenization for crowdsensing in environmental, social, and governance disclosure. *Computers & Industrial Engineering*, 185, 109664.
 
-[21] Wang, Y., Zhang, X., Chen, R., Dai, H. N., Wang, X., Zhang, L. Y., & **Li, M.** (2023). Multi-Receiver Conditional Anonymous Singcryption for IoMT Crowdsourcing. IEEE Internet of Things Journal. Early access.
+[21] Wang, Y., Zhang, X., Chen, R., Dai, H. N., Wang, X., Zhang, L. Y., & **Li, M.** (2023). Multi-Receiver Conditional Anonymous Singcryption for IoMT Crowdsourcing. *IEEE Internet of Things Journal*. Early access.
 
 [20] Harish, A. R., Liu, X. L., **Li, M.**, Zhong, R. Y., & Huang, G. Q. (2023). Blockchain-enabled digital assets tokenization for cyber-physical traceability in E-commerce logistics financing. *Computers in Industry*, 150, 103956.
 
