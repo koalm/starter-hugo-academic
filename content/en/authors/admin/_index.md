@@ -31,16 +31,16 @@ organizations:
     url: https://www.polyu.edu.hk/ise/people/academic-staff/ming-li/
 education:
   courses:
-    - course: PhD in Industrial and Manufacturing Systems Engineering
+    - course: Ph.D in Industrial and Manufacturing Systems Engineering
       institution: The University of Hong Kong (HKSAR)
       year: 2018
-    - course: MSc in Industrial Engineering and Logistics Management (Distinction)
+    - course: M.Sc in Industrial Engineering and Logistics Management (Distinction)
       institution: The University of Hong Kong (HKSAR)
       year: 2013
-    - course: BEng in Computer Science and Technology (Major)
+    - course: B.Eng in Computer Science and Technology (Major)
       institution: South China University of Technology (CHINA)
       year: 2012
-    - course: BSc in Finance (Minor)
+    - course: B.Ec in Finance (Minor)
       institution: South China University of Technology (CHINA)
       year: 2012
 email: liming8738@gmail.com
