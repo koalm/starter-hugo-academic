@@ -23,13 +23,13 @@ columns: "1"
 
 [37] Li, Z., **Li, M.** *, Wang, Y., & Wang, Y. (2024). Controller Design for Leader-Follower Systems With Hidden Markovian Jamming Attack. *IEEE Transactions on Automation Science and Engineering*. (Early Access) [doi.org/10.1109/TASE.2024.3375339](https://doi.org/10.1109/TASE.2024.3375339)
 
-[36] Tan, B. Q., Xu, S. X., Thürer, M., Kang, K., Zhao, Z., & **Li, M.** (2024). Booking versus search-based parking strategy: A game-theoretic methodology. Research in Transportation Economics, 104, 101416.[doi.org/10.1016/j.retrec.2024.101416](https://doi.org/10.1016/j.retrec.2024.101416)
+[36] Tan, B. Q., Xu, S. X., Thürer, M., Kang, K., Zhao, Z., & **Li, M.** (2024). Booking versus search-based parking strategy: A game-theoretic methodology. *Research in Transportation Economics*, 104, 101416.[doi.org/10.1016/j.retrec.2024.101416](https://doi.org/10.1016/j.retrec.2024.101416)
 
-[35] Chen, W., Wu, W., Ouyang, Z., Fu, Y., **Li, M.**, & Huang, G. Q. (2024). Event-based data authenticity analytics for IoT and blockchain-enabled ESG disclosure. Computers & Industrial Engineering, 109992.[doi.org/10.1016/j.cie.2024.109992](https://doi.org/10.1016/j.cie.2024.109992)
+[35] Chen, W., Wu, W., Ouyang, Z., Fu, Y., **Li, M.**, & Huang, G. Q. (2024). Event-based data authenticity analytics for IoT and blockchain-enabled ESG disclosure. *Computers & Industrial Engineering*, 109992.[doi.org/10.1016/j.cie.2024.109992](https://doi.org/10.1016/j.cie.2024.109992)
 
 [34] **Li, M.**, Li, M., Harish, A. R., Huang, G. Q. (2023). Blockchain-Based Fine-Grained Digital Twin Sharing Framework for Social Manufacturing. *Advanced Engineering Informatics*, 58, 102225. [doi.org/10.1016/j.aei.2023.102225](https://doi.org/10.1016/j.aei.2023.102225)
 
-[33] Li, M., **Li, M.** *, Guo, D., Qu, T., & Huang, G. Q. (2023). Real-Time Data-Driven Out-of-Order Synchronization for Production and Intralogistics in Multiresource-Constrained Assembly Systems. IEEE Transactions on Systems, Man, and Cybernetics: Systems. (Early Access) [doi.org/10.1109/TSMC.2023.3298927](https://doi.org/10.1109/TSMC.2023.3298927)
+[33] Li, M., **Li, M.** *, Guo, D., Qu, T., & Huang, G. Q. (2023). Real-Time Data-Driven Out-of-Order Synchronization for Production and Intralogistics in Multiresource-Constrained Assembly Systems. *IEEE Transactions on Systems, Man, and Cybernetics: Systems*. (Early Access) [doi.org/10.1109/TSMC.2023.3298927](https://doi.org/10.1109/TSMC.2023.3298927)
 
 [32] Yang, Z., Xie, Y., **Li, M.** *, & Huang, G. Q. (2023). GazeGraphVis: Visual analytics of gaze behaviors at multiple graph levels for path tracing tasks. *Advanced Engineering Informatics*, 57, 102111. [doi.org/10.1016/j.aei.2023.102111](https://doi.org/10.1016/j.aei.2023.102111)
 
