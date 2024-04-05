@@ -18,15 +18,15 @@ subtitle:
 design:
 columns: "1"
 ---
-[17] 2024-2025: Blockchain-enabled creditable energy trading framework for multi-level virtual power plants, *Collaborative project*, HKD 400,000, **PI**
+[17] 2024-2025: Blockchain-enabled creditable energy trading framework for multi-level virtual power plants, *Collaborative project (No.P0049930)*, HKD 400,000, **PI**
 
 [16] 2024-2027: Cyber-physical workstation for garment factory, *Centre for Transformative Garment Production (InnoHK, P0049228)*, HKD 2,253,900, **PI**
 
 [15] 2023-2025: Out-of-Order Based Smart Production-Logistics Instruction System, *Departmental General Research Fund (No.P0045748)*, HKD 400,000, **PI**
 
-[14] 2023-2025: Out-of-Order Synchronization for Industry 4.0 Assembly Systems, *Projects of RIAM, PolyU (No.P0046130)*, HKD 500,000, **PI**
+[14] 2023-2025: Out-of-Order Synchronization for Industry 4.0 Assembly Systems, *RIAM Seed Fund Scheme, PolyU (No.P0046130)*, HKD 500,000, **PI**
 
-[13] 2023-2026: iFactory: Cyber-Physical Factory that Mass Customizes Products, *RGC Collaborative Research Fund (No.C7076-22GF)*, HKD 1,184,000/6,364,340, **Co-PI**
+[13] 2023-2026: iFactory: Cyber-Physical Factory that Mass Customizes Products, *RGC Collaborative Research Fund (No.C7076-22G)*, HKD 1,184,000/6,364,340, **Co-PI**
 
 [12] 2023-2027: SynchronHub: Cyber-Physical Internet for Synchronizing Cross-Border Logistics Hubs in the Greater Bay Area (GBA), *RGC Theme-based Research Scheme (No.T32-707/22-N)*, HKD 7,685,000/40,301,000, **Co-PI**
 
