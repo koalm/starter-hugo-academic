@@ -18,6 +18,7 @@ subtitle: (* refers to corresponding author)
 design:
 columns: "1"
 ---
+[39] Wu, H., Huang, L., **Li, M.**, Huang, G. Q. (2024). Cyber-Physical Internet (CPI)-enabled logistics infrastructure integration framework in the greater bay area. *Advanced Engineering Informatics*, 102551. 
 
 [38] Li, Z., **Li, M.** *, Li, A., & Lin, Z. (2024). Blockchain-based collaborative data analysis framework for distributed medical knowledge extraction. *Computers & Industrial Engineering*, 110099.[doi.org/10.1016/j.cie.2024.110099](https://doi.org/10.1016/j.cie.2024.110099)
 

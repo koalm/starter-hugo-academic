@@ -18,6 +18,8 @@ subtitle:
 design:
 columns: "1"
 ---
+[17] 2024-2025: iWorkStation 4.0: A Human-Centric Smart Assembly Station, *Large Equipment Fund of PolyU (No. P0050895)*, HKD 1,314,532,**PI**
+
 [16] 2024-2025: Blockchain-enabled creditable energy trading framework for multi-level virtual power plants, *Collaborative project (No.P0049930)*, HKD 400,000, **PI**
 
 [15] 2024-2027: Cyber-physical workstation for garment factory, *Centre for Transformative Garment Production (InnoHK, P0049228)*, HKD 2,253,900, **PI**
