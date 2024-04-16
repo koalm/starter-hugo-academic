@@ -13,8 +13,7 @@ headless: true
 weight: 120
 
 title: Publications
-subtitle: *corresponding author
-subtitle: #supervised students
+subtitle: *corresponding author <br> #supervised students
 
 design:
 columns: "1"
