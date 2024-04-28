@@ -7,7 +7,7 @@ bio: My research interests include distributed robotics, mobile computing and
 interests:
   - 区块链技术与应用
   - 信息物理系统
-  - 数字孪生技术
+  - 环境、社会及公司管治(ESG)
   - 智能制造
 social:
   - icon: envelope

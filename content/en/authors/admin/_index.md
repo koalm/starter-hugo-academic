@@ -7,7 +7,7 @@ bio: My research interests industrial blockchain, digital twin/cyber-physical sy
 interests:
   - Blockchain Technology
   - Cyber Physical System
-  - Digital Twin
+  - Environmental, Social and Governance (ESG)
   - Smart Manufacturing
 social:
   - icon: envelope 
