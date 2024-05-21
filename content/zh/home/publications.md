@@ -21,9 +21,9 @@ columns: "1"
 
 [20] Ng, C.^, **Li, M.**, Zhong, R., Qu, X., Huang, G. Q. (2024). Establishing carbon footprints for modular integrated construction logistics using cyber-physical internet routers. *Transportation Research Part D: Transport and Environment*, 132, 104259.
 
-[19] Wu, H.^, Huang, L., **Li, M.** *, Huang, G. Q. (2024). Cyber-Physical Internet (CPI)-enabled logistics infrastructure integration framework in the greater bay area. *Advanced Engineering Informatics*, 102551. [doi.org/10.1016/j.aei.2024.102551](https://doi.org/10.1016/j.aei.2024.102551)
+[19] Wu, H.^, Huang, L., **Li, M.** *, Huang, G. Q. (2024). Cyber-Physical Internet (CPI)-enabled logistics infrastructure integration framework in the greater bay area. *Advanced Engineering Informatics*, 60, 102551. [doi.org/10.1016/j.aei.2024.102551](https://doi.org/10.1016/j.aei.2024.102551)
 
-[18] Li, Z., **Li, M.** *, Li, A., & Lin, Z. (2024). Blockchain-based collaborative data analysis framework for distributed medical knowledge extraction. *Computers & Industrial Engineering*, 110099.[doi.org/10.1016/j.cie.2024.110099](https://doi.org/10.1016/j.cie.2024.110099)
+[18] Li, Z., **Li, M.** *, Li, A., & Lin, Z. (2024). Blockchain-based collaborative data analysis framework for distributed medical knowledge extraction. *Computers & Industrial Engineering*, 190, 110099.[doi.org/10.1016/j.cie.2024.110099](https://doi.org/10.1016/j.cie.2024.110099)
 
 [17] Li, Z., **Li, M.** *, Wang, Y., & Wang, Y. (2024). Controller Design for Leader-Follower Systems With Hidden Markovian Jamming Attack. *IEEE Transactions on Automation Science and Engineering*. (Early Access) [doi.org/10.1109/TASE.2024.3375339](https://doi.org/10.1109/TASE.2024.3375339)
 
