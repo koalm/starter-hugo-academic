@@ -18,6 +18,8 @@ subtitle:
 design:
 columns: "1"
 ---
+[18] 2024-2026: TouristESG: A blockchain-based tourist data sharing platform for ESG certification, *RCDTT Grant (No. P0051281)*, HKD 500,000, **PI**
+
 [17] 2024-2025: iWorkStation 4.0: A Human-Centric Smart Assembly Station, *Large Equipment Fund of PolyU (No. P0050895)*, HKD 1,314,532, **PI**
 
 [16] 2024-2025: Blockchain-enabled creditable energy trading framework for multi-level virtual power plants, *Collaborative project (No.P0049930)*, HKD 400,000, **PI**
