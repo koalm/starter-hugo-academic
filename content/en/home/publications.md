@@ -18,7 +18,7 @@ subtitle: \* corresponding author <br> ^ supervised students
 design:
 columns: "1"
 ---
-[40] Ng, C.^, **Li, M.**, Zhong, R., Qu, X., Huang, G. Q. (2024). Establishing carbon footprints for modular integrated construction logistics using cyber-physical internet routers. *Transportation Research Part D: Transport and Environment*, 132, 104259.
+[40] Ng, C.^, **Li, M.** *, Zhong, R., Qu, X., Huang, G. Q. (2024). Establishing carbon footprints for modular integrated construction logistics using cyber-physical internet routers. *Transportation Research Part D: Transport and Environment*, 132, 104259.
 
 [39] Wu, H.^, Huang, L., **Li, M.** *, Huang, G. Q. (2024). Cyber-Physical Internet (CPI)-enabled logistics infrastructure integration framework in the greater bay area. *Advanced Engineering Informatics*, 60，102551. [doi.org/10.1016/j.aei.2024.102551](https://doi.org/10.1016/j.aei.2024.102551)
 
