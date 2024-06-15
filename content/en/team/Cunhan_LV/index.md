@@ -2,7 +2,7 @@
 title: Cunhan LV  
 summary: Master Student @ JNU 2022/23 <br> Field of Study：Electronic and Information Engineering <br> B.E. (Zhejiang Sci-Tech University)
 tags:
-- Master
+- Mphil
 
 date: 2022-09-22
 order: 5

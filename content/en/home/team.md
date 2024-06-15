@@ -32,10 +32,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Postdoctoral Fellows
+    tag: PDF
   - name: Ph.D Students
     tag: PhD
-  - name: Master Students
-    tag: Master
+  - name: Mphil/Master Students
+    tag: Mphil
+  - name: Assistants
+    tag: Ass
   - name: Graduates
     tag: Graduates
   
