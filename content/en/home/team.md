@@ -32,16 +32,18 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Postdoctoral Fellows
+  - name: Postdoc
     tag: PDF
-  - name: Ph.D Students
+  - name: Ph.D
     tag: PhD
-  - name: Mphil/Master Students
+  - name: Mphil
     tag: Mphil
-  - name: Assistants
+  - name: Master
+    tag: Master
+  - name: Assistant
     tag: Ass
-  - name: Graduates
-    tag: Graduates
+  - name: Graduate
+    tag: Graduate
   
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
