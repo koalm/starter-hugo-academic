@@ -4,7 +4,7 @@ summary: Master Student @ JNU 2022/23 (Graduated) <br> Field of Study：Logistic
 tags:
 - Graduate
 
-date: 2022-09-23
+date: 2022-02-23
 order: 5
 # external_link: http://github.com
 
