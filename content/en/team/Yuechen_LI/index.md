@@ -1,6 +1,6 @@
 ---
 title: Yuechen LI  
-summary: Project Assistant @ PolyU 2024.8-Now <br> B.E. (Shandong University of Science and Technology) M.Sc. (PolyU)
+summary: Project Assistant @ PolyU 2024.8-Now <br> B.E. (Shandong University of Science and Technology) <br> M.Sc. (PolyU)
 tags:
 - Ass
 
