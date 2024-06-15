@@ -1,6 +1,6 @@
 ---
 title: Wenqi WU  
-summary: Postdoctoral Fellow 2024.7 - Now <br> Research Interests：ESG Policies and Operation Management <br> Ph.D (China University of Mining and Technology)
+summary: Postdoctoral Fellow 2024.7 - Now <br> Research Interests：ESG Policies and Operation Management <br> B.S (Shandong University of Technology) <br> Ph.D (China University of Mining and Technology)
 tags:
 - PDF
 

@@ -1,6 +1,6 @@
 ---
 title: Hui LI  
-summary: Postdoctoral Fellow 2024.5 - Now <br> Research Interests：Digital Worker <br> Ph.D (Xi'an Jiaotong-Liverpool University)
+summary: Postdoctoral Fellow 2024.5 - Now <br> Research Interests：Digital Worker <br> B.E. (Chongqing University) <br> M.Sc. (University of Birmingham) <br>Ph.D (Xi'an Jiaotong-Liverpool University)
 tags:
 - PDF
 

@@ -1,6 +1,6 @@
 ---
 title: Zhaolin YUAN  
-summary: Postdoctoral Fellow 2023.8 - Now <br> Research Interests：Large Manufacturing Models <br> Ph.D (University of Science and Technology Beijing)
+summary: Postdoctoral Fellow 2023.8 - Now <br> Research Interests：Large Manufacturing Models <br> B.E. (University of Science and Technology Beijing) <br> Ph.D (University of Science and Technology Beijing)
 tags:
 - PDF
 
