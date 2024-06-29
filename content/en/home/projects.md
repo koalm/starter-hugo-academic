@@ -18,6 +18,11 @@ subtitle:
 design:
 columns: "1"
 ---
+
+[20] 2025-2027：Federated ESG Auditing against Industry 4.0 Greenwashing, *RGC General Research Fund (GRF) (No.15208824)*, HKD 1,228,953, **PI**
+
+[19] 2024-2026: ESG Auditing Polices, *Postdoc Matching Fund Scheme*, HKD 365,400, **PI**
+
 [18] 2024-2026: TouristESG: A blockchain-based tourist data sharing platform for ESG certification, *RCDTT Grant (No. P0051281)*, HKD 500,000, **PI**
 
 [17] 2024-2025: iWorkStation 4.0: A Human-Centric Smart Assembly Station, *Large Equipment Fund of PolyU (No. P0050895)*, HKD 1,314,532, **PI**
