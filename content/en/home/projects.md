@@ -19,6 +19,8 @@ design:
 columns: "1"
 ---
 
+[21] 2025-2027: Federated ESG Auditing against Industry 4.0 Greenwashing, *RGC General Research Fund (No.PolyU15208824)*, HKD 1,228,953, **PI**
+
 [20] 2024-2026: AiFashion: Multi-modal and Multi-dimensional Large Model based on Self-Trained Customer Digital-Twin for Fashion Smart Social Manufacturing, *Innovation and Technology Fund (PRP/015/24TI)*， HKD 1,158,000/4,469,978, **Deputy PC/Co-PI**
 
 [19] 2024-2026: ESG Auditing Polices, *Postdoc Matching Fund Scheme*, HKD 365,400, **PI**

@@ -20,7 +20,9 @@ columns: "1"
 ---
 
 **Committee Member**
-- Management and Decision Sciences Society, Chinese Academy of Management
+- Management and Decision Sciences Society, Chinese Academy of Management (2023-)
+- IEEE Technical Committee on Digital Manufacturing and Human-centered Automation (2023 -)
+- Blockchain Committee, China Society for Industrial and Applied Mathematics (2024- )
 
 **Conference Committee**	
 
@@ -38,12 +40,4 @@ columns: "1"
   
 - Special Session “Smart Buildings and Community”, 2019 IEEE International Conference on Automation Science and Engineering, Vancouver, BC, Canada.
 - Special Session “PSS Value Network Innovation and Operations Management A”, 11th CIRP International Conference on Industrial Product Service Systems (CIRP IPS2 2019), Zhuhai, China.
-
-**Reviewer**	
-
-- International Journal of Production Economics
-- Robotics and Computer-Integrated Manufacturing
-- Computers & Industrial Engineering
-- Annals of Operations Research
-- Advanced Engineering Informatics
-- Transportation Research: Part E
+- Special Session "Cyber-Physical Manufacturing for Small Batch Customization: Challenges, Enabling technologies, and Methodologies I&II",2024 IEEE International Conference on Automation Science and Engineering, Bari, Italy.

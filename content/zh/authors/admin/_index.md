@@ -1,7 +1,7 @@
 ---
 title: 李明 博士
 role: 助理教授（研究）
-avatar_filename: avatar.jpg
+avatar_filename: avatar2.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
