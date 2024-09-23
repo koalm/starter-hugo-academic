@@ -1,5 +1,5 @@
 ---
-title: Xiaoxuan Gan  
+title: Xiaoxuan GAN  
 summary: Mphil Student @ PolyU 2024/25 <br> Field of Study：Learning by Demonstration in Assembling <br> B.E. (Jinan University)
 tags:
 - Mphil
