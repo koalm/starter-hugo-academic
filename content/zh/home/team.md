@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 380
 
-title: Team
+title: 研究团队
 subtitle: ''
 
 content:
