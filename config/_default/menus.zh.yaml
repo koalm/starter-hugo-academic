@@ -25,6 +25,8 @@ main:
   - name: 软件著作权
     url: '#copyrights'
     weight: 70
+  - name: 研究团队
+    url: '#team'
   - name: 学术服务
     url: '#services'
     weight: 80

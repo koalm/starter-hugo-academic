@@ -18,6 +18,8 @@ subtitle: (* 为通讯作者，^ 指导的学生)
 design:
 columns: "1"
 ---
+[22] Gui, H., **Li, M.** *, & Yuan, Z. (2024). A behavioral conditional diffusion probabilistic model for human motion modeling in multi-action mixed human-robot collaboration. *Advanced Engineering Informatics*, 62, 102742.[doi.org/10.1016/j.aei.2024.102742](https://doi.org/10.1016/j.aei.2024.102742)
+
 [21] Qu, X.^, **Li, M.** *, Ouyang, Z., Ng, C. L., & Huang, G. Q. (2024). Routing protocols for B2B e-commerce logistics in Cyber-Physical internet (CPI). *Computers & Industrial Engineering*, 110293.[doi.org/10.1016/j.cie.2024.110293](https://doi.org/10.1016/j.cie.2024.110293)
 
 [20] Ng, C.^, **Li, M.** *, Zhong, R., Qu, X., Huang, G. Q. (2024). Establishing carbon footprints for modular integrated construction logistics using cyber-physical internet routers. *Transportation Research Part D: Transport and Environment*, 132, 104259.[doi.org/10.1016/j.trd.2024.104259](https://doi.org/10.1016/j.trd.2024.104259)
