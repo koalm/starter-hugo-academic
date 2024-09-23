@@ -1,7 +1,7 @@
 ---
 title: Dr.Ming LI
 role: Research Assistant Professor
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 bio: My research interests industrial blockchain, digital twin/cyber-physical system and smart manufacturing
 
 interests:
