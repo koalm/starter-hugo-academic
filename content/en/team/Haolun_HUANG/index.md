@@ -4,7 +4,7 @@ summary: Master Student @ JNU 2022/23 <br> Field of Study：Electronic and Infor
 tags:
 - Master
 
-date: 2022-09-20
+date: 2022-09-10
 order: 5
 # external_link: http://github.com
 
