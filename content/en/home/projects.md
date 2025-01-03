@@ -19,6 +19,8 @@ design:
 columns: "1"
 ---
 
+[22] 2024-2027: A Privacy-Aware Large Language Model for Interactive Enterprise Information Disclosure, *Collaborative project (No.P0053658)*, HKD 2,128,561, **PI**
+
 [21] 2025-2027: Federated ESG Auditing against Industry 4.0 Greenwashing, *RGC General Research Fund (No.PolyU15208824)*, HKD 1,228,953, **PI**
 
 [20] 2024-2026: AiFashion: Multi-modal and Multi-dimensional Large Model based on Self-Trained Customer Digital-Twin for Fashion Smart Social Manufacturing, *Innovation and Technology Fund (PRP/015/24TI)*， HKD 1,158,000/4,469,978, **Deputy PC/Co-PI**

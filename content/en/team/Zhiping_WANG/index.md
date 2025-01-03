@@ -4,7 +4,7 @@ summary: PhD Student @ PolyU 2024/25 <br> Field of Study：Factory Storage Syste
 tags:
 - PhD
 
-date: 2022-09-28
+date: 2022-08-28
 order: 5
 # external_link: http://github.com
 

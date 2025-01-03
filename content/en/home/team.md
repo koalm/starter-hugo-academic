@@ -42,6 +42,8 @@ content:
     tag: Master
   - name: Assistant
     tag: Ass
+  - name: Alumni
+    tag: Alumni
   - name: Graduate
     tag: Graduate
   
