@@ -43,7 +43,7 @@ education:
     - course: B.Ec in Finance (Minor)
       institution: South China University of Technology (CHINA)
       year: 2012
-email: liming8738@gmail.com
+email: ming.li@polyu.edu.hk
 superuser: true
 highlight_name: true
 ---
