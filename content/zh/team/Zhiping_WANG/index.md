@@ -4,7 +4,7 @@ summary: 博士研究生 @ PolyU 2024/25 <br> 研究方向：工厂存储系统 
 tags:
 - PhD
 
-date: 2022-09-28
+date: 2022-08-28
 order: 5
 # external_link: http://github.com
 

@@ -1,10 +1,10 @@
 ---
 title: 袁兆麟
-summary: 博士后研究员 2023.8 - 至今 <br> 研究方向：工业大模型 <br> 工学学士 (北京科技大学) <br> 工学博士 (北京科技大学)
+summary: 博士后研究员 2023.8 - 2024.12 <br> 目前工作：北京科技大学 副教授
 tags:
-- PDF
+- Graduate
 
-date: 2024-05-04
+date: 2022-02-25
 order: 5
 # external_link: http://github.com
 

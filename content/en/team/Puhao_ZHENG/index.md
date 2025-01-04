@@ -1,6 +1,6 @@
 ---
 title: Puhao ZHENG
-summary: PhD Student @ PolyU 2024/25 <br> Field of Study：Provable Computing <br> B.S. (Harbin Engineering University) <br> M.Sc. (Karlsruhe Institute of Technology)
+summary: PhD Student @ PolyU 2024/25 <br> Field of Study：Provable Computing <br> B.E. (Harbin Engineering University) <br> M.Sc. (Karlsruhe Institute of Technology)
 tags:
 - PhD
 

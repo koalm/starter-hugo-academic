@@ -23,7 +23,7 @@ columns: "1"
 
 [23] You, Y.^, & **Li, M.** * (2025). Limited data-driven router bandwidth configuration for cyber physical internet. Expert Systems with Applications, 265, 126003.[doi.org/10.1016/j.eswa.2024.126003](https://doi.org/10.1016/j.eswa.2024.126003)
 
-[22] Gui, H., **Li, M.** *, & Yuan, Z. (2024). A behavioral conditional diffusion probabilistic model for human motion modeling in multi-action mixed human-robot collaboration. *Advanced Engineering Informatics*, 62, 102742.[doi.org/10.1016/j.aei.2024.102742](https://doi.org/10.1016/j.aei.2024.102742)
+[22] Gui, H.^, **Li, M.** *, & Yuan, Z. (2024). A behavioral conditional diffusion probabilistic model for human motion modeling in multi-action mixed human-robot collaboration. *Advanced Engineering Informatics*, 62, 102742.[doi.org/10.1016/j.aei.2024.102742](https://doi.org/10.1016/j.aei.2024.102742)
 
 [21] Qu, X.^, **Li, M.** *, Ouyang, Z., Ng, C. L., & Huang, G. Q. (2024). Routing protocols for B2B e-commerce logistics in Cyber-Physical internet (CPI). *Computers & Industrial Engineering*, 110293.[doi.org/10.1016/j.cie.2024.110293](https://doi.org/10.1016/j.cie.2024.110293)
 
