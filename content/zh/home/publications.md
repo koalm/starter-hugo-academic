@@ -13,12 +13,16 @@ headless: true
 weight: 120
 
 title: 论文
-subtitle: (* 为通讯作者，^ 指导的学生)
+subtitle: (* 为通讯作者，^ 指导的学生/博士后)
 
 design:
 columns: "1"
 ---
-[22] Gui, H., **Li, M.** *, & Yuan, Z. (2024). A behavioral conditional diffusion probabilistic model for human motion modeling in multi-action mixed human-robot collaboration. *Advanced Engineering Informatics*, 62, 102742.[doi.org/10.1016/j.aei.2024.102742](https://doi.org/10.1016/j.aei.2024.102742)
+[24] Wu, W.^, **Li, M.** *, Zhang, M. *, Wang, Y., Wang, L., & You, Y. (2024). Electric vehicle battery closed-loop supply chain pricing and carbon reduction decisions under the carbon cap-and-trade and reward-penalty policies. Process Safety and Environmental Protection, 192, 1467-1482.[doi.org/10.1016/j.psep.2024.10.121](https://doi.org/10.1016/j.psep.2024.10.121)
+
+[23] You, Y.^, & **Li, M.** * (2025). Limited data-driven router bandwidth configuration for cyber physical internet. Expert Systems with Applications, 265, 126003.[doi.org/10.1016/j.eswa.2024.126003](https://doi.org/10.1016/j.eswa.2024.126003)
+
+[22] Gui, H.^, **Li, M.** *, & Yuan, Z. (2024). A behavioral conditional diffusion probabilistic model for human motion modeling in multi-action mixed human-robot collaboration. *Advanced Engineering Informatics*, 62, 102742.[doi.org/10.1016/j.aei.2024.102742](https://doi.org/10.1016/j.aei.2024.102742)
 
 [21] Qu, X.^, **Li, M.** *, Ouyang, Z., Ng, C. L., & Huang, G. Q. (2024). Routing protocols for B2B e-commerce logistics in Cyber-Physical internet (CPI). *Computers & Industrial Engineering*, 110293.[doi.org/10.1016/j.cie.2024.110293](https://doi.org/10.1016/j.cie.2024.110293)
 
