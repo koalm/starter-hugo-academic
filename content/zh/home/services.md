@@ -19,6 +19,15 @@ design:
 columns: "1"
 ---
 
+**会员**
+- 香港工程师协会 企业会员 (2025-)
+- 香港理工大学旅游业数字化转型研究中心 会员 (2024-)
+- 中国计算机协会CCF 高级会员 (2024-)
+- 电气电子工程师学会IEEE 高级会员 (2024-)
+- 国际工业工程学会IISE 注册会员 (2023-)
+- 美国机械工程师学会ASME 注册会员 (2022-)
+- 香港理工大学先进制造研究院 会员 (2022-)
+
 **会议组委会**	
 
 - Annual International Conference for Chinese Scholars in Industrial Engineering (CSIE2020) and the 11th Forum for the Council of Chinese Industrial Engineering and Logistics Management Department Heads (CIEDH2019), 2020, Zhuhai, China.

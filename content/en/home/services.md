@@ -19,6 +19,16 @@ design:
 columns: "1"
 ---
 
+**Membership**
+- Member, The Hong Kong Institution of Engineers (2025-)
+- Member, Research Centre for Digital Transformation of Tourism, The Hong Kong Polytechnic University (2024-)
+- Senior Member, China Computer Federation (CCF) (2024-)
+- Senior Member, Institute of Electrical and Electronics Engineers (IEEE) (2024-)
+- Member,	Institute of Industrial and Systems Engineers (IISE) (2023-)
+- Member, American Society of Mechanical Engineers (ASME) (2022-)
+- Member,	Research Institute for Advanced Manufacturing, The Hong Kong Polytechnic University (2022-)
+
+
 **Committee Member**
 - Management and Decision Sciences Society, Chinese Academy of Management (2023-)
 - IEEE Technical Committee on Digital Manufacturing and Human-centered Automation (2023 -)

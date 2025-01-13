@@ -22,13 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: 助理教授
+    company: 香港理工大学 工业及系统工程学系
+    company_url: 'https://www.polyu.edu.hk/ise/'
+    company_logo: polyu
+    location: 香港特别行政区
+    date_start: '2025-02-01'
+    date_end: ''
+
   - title: 助理教授（研究）
     company: 香港理工大学 工业及系统工程学系
     company_url: 'https://www.polyu.edu.hk/ise/'
     company_logo: polyu
     location: 香港特别行政区
     date_start: '2022-06-30'
-    date_end: ''
+    date_end: '2025-01-31'
 
   - title: 讲师
     company: 暨南大学智能科学与工程学院
@@ -46,8 +54,8 @@ experience:
     date_start: '2018-11-01'
     date_end: '2019-12-31'
     
-  - title: 联合创始人
-    company: 深圳逗号互联科技有限公司
+  - title: 联合创始人、董事
+    company: 逗号科技（广东）有限公司
     company_url: 'https://www.smartcomma.com'
     company_logo: comma
     location: 广东省深圳市

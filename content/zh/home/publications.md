@@ -18,6 +18,8 @@ subtitle: (* 为通讯作者，^ 指导的学生/博士后)
 design:
 columns: "1"
 ---
+[25] Li, Z., Liang, F., & **Li, M.** * (2025). A fuzzy dematel-based delegated Proof-of-Stake consensus mechanism for medical model fusion on blockchain. Advanced Engineering Informatics, 64, 103095.[doi.org/10.1016/j.aei.2024.103095](https://doi.org/10.1016/j.aei.2024.103095)
+
 [24] Wu, W.^, **Li, M.** *, Zhang, M. *, Wang, Y., Wang, L., & You, Y. (2024). Electric vehicle battery closed-loop supply chain pricing and carbon reduction decisions under the carbon cap-and-trade and reward-penalty policies. Process Safety and Environmental Protection, 192, 1467-1482.[doi.org/10.1016/j.psep.2024.10.121](https://doi.org/10.1016/j.psep.2024.10.121)
 
 [23] You, Y.^, & **Li, M.** * (2025). Limited data-driven router bandwidth configuration for cyber physical internet. Expert Systems with Applications, 265, 126003.[doi.org/10.1016/j.eswa.2024.126003](https://doi.org/10.1016/j.eswa.2024.126003)

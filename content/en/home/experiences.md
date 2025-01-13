@@ -24,13 +24,21 @@ date_format: Jan 2006
 experience:
 
 
+  - title: Assistant Professor (Tenure-Track)
+    company: The Hong Kong Polytechnic University
+    company_url: 'https://www.polyu.edu.hk/ise/'
+    company_logo: polyu
+    location: HKSAR
+    date_start: '2025-02-01'
+    date_end: ''
+
   - title: Research Assistant Professor
     company: The Hong Kong Polytechnic University
     company_url: 'https://www.polyu.edu.hk/ise/'
     company_logo: polyu
     location: HKSAR
     date_start: '2022-06-30'
-    date_end: ''
+    date_end: '2025-01-31'
 
   - title: Lecturer
     company: Jinan University
