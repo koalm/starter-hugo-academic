@@ -1,18 +1,18 @@
 ---
 title: 李明 博士
-role: 助理教授（研究）
+role: 助理教授
 avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - 区块链技术与应用
   - 信息物理系统
+  - 大语言模型
   - 环境、社会及公司管治(ESG)
-  - 智能制造
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:liming8738@gmail.com"
+    link: "mailto:ming.li@polyu.edu.hk"
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=JuAPUpsAAAAJ&hl
@@ -43,7 +43,7 @@ education:
     - course: 理学学士（金融学，第二学位)
       institution: 华南理工大学经济与贸易学院
       year: 2012
-email: liming8738@gmail.com
+email: ming.li@polyu.edu.hk
 superuser: true
 highlight_name: true
 ---

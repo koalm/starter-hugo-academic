@@ -18,6 +18,14 @@ subtitle: \* corresponding author <br> ^ supervised students/staff
 design:
 columns: "1"
 ---
+
+
+[28] **Li, M.**, Harish, A. R., Yu, C., Yu, Y., Zhong, R. Y., & Huang, G. Q. (2025). Blockchain-Based Medical Data Asset Sharing Framework for Healthcare 4.0. IEEE Transactions on Industrial Informatics.[doi.org/10.1109/TII.2024.3488795](https://doi.org/10.1109/TII.2024.3488795)
+
+[27] Wu, W., **Li, M.** *, & Huang, G. Q. (2025). Optimal Recovery Mode for New Energy Vehicle Battery Recycling Under Government Policies. Managerial and Decision Economics. [doi.org/10.1002/mde.4487](https://doi.org/10.1002/mde.4487)
+
+[26] Harish, A. R.^, Liu, X., **Li, M.** *, Zhong, R. Y., & Huang, G. Q. (2025). The new supply chain information sharing Renaissance through crypto valuation mechanism of digital assets. Transportation Research Part E: Logistics and Transportation Review, 195, 103962.[doi.org/10.1016/j.tre.2025.103962](https://doi.org/10.1016/j.tre.2025.103962)
+
 [25] Li, Z., Liang, F., & **Li, M.** * (2025). A fuzzy dematel-based delegated Proof-of-Stake consensus mechanism for medical model fusion on blockchain. Advanced Engineering Informatics, 64, 103095.[doi.org/10.1016/j.aei.2024.103095](https://doi.org/10.1016/j.aei.2024.103095)
 
 [24] Wu, W.^, **Li, M.** *, Zhang, M. *, Wang, Y., Wang, L., & You, Y. (2024). Electric vehicle battery closed-loop supply chain pricing and carbon reduction decisions under the carbon cap-and-trade and reward-penalty policies. Process Safety and Environmental Protection, 192, 1467-1482.[doi.org/10.1016/j.psep.2024.10.121](https://doi.org/10.1016/j.psep.2024.10.121)
