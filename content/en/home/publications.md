@@ -22,7 +22,7 @@ columns: "1"
 
 [28] **Li, M.**, Harish, A. R., Yu, C., Yu, Y., Zhong, R. Y., & Huang, G. Q. (2025). Blockchain-Based Medical Data Asset Sharing Framework for Healthcare 4.0. IEEE Transactions on Industrial Informatics.[doi.org/10.1109/TII.2024.3488795](https://doi.org/10.1109/TII.2024.3488795)
 
-[27] Wu, W., **Li, M.** *, & Huang, G. Q. (2025). Optimal Recovery Mode for New Energy Vehicle Battery Recycling Under Government Policies. Managerial and Decision Economics. [doi.org/10.1002/mde.4487](https://doi.org/10.1002/mde.4487)
+[27] Wu, W.^, **Li, M.** *, & Huang, G. Q. (2025). Optimal Recovery Mode for New Energy Vehicle Battery Recycling Under Government Policies. Managerial and Decision Economics. [doi.org/10.1002/mde.4487](https://doi.org/10.1002/mde.4487)
 
 [26] Harish, A. R.^, Liu, X., **Li, M.** *, Zhong, R. Y., & Huang, G. Q. (2025). The new supply chain information sharing Renaissance through crypto valuation mechanism of digital assets. Transportation Research Part E: Logistics and Transportation Review, 195, 103962.[doi.org/10.1016/j.tre.2025.103962](https://doi.org/10.1016/j.tre.2025.103962)
 

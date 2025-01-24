@@ -1,5 +1,5 @@
 ---
-title: 李明 博士、工程师
+title: 李明 博士/工程师
 role: 助理教授
 avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
