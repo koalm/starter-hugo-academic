@@ -18,6 +18,9 @@ subtitle: (* 为通讯作者，^ 指导的学生/博士后)
 design:
 columns: "1"
 ---
+
+[29] Wu, W.^, **Li, M.** *, & Huang, G. Q. (2025). Optimal Recovery Mode for New Energy Vehicle Battery Recycling Under Government Policies. Managerial and Decision Economics. [doi.org/10.1002/mde.4487](https://doi.org/10.1002/mde.4487)
+
 [28] **Li, M.**, Harish, A. R., Yu, C., Yu, Y., Zhong, R. Y., & Huang, G. Q. (2025). Blockchain-Based Medical Data Asset Sharing Framework for Healthcare 4.0. IEEE Transactions on Industrial Informatics.[doi.org/10.1109/TII.2024.3488795](https://doi.org/10.1109/TII.2024.3488795)
 
 [27] Wu, W.^, **Li, M.** *, & Huang, G. Q. (2025). Optimal Recovery Mode for New Energy Vehicle Battery Recycling Under Government Policies. Managerial and Decision Economics. [doi.org/10.1002/mde.4487](https://doi.org/10.1002/mde.4487)
