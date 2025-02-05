@@ -18,6 +18,7 @@ subtitle: (* 为通讯作者，^ 指导的学生/博士后)
 design:
 columns: "1"
 ---
+[30] Wu, W.^, **Li, M.** *, Yang, Y., Huang, B., Wang, S., & Huang, G. Q. (2025). Optimal deposit-return strategies for the recycling of spent electric automobile battery: manufacturer, retailer, or consumer. Transport Policy, 164:92-103. [doi.org/10.1016/j.tranpol.2025.01.035](https://doi.org/10.1016/j.tranpol.2025.01.035)
 
 [29] Wu, W.^, **Li, M.** *, & Huang, G. Q. (2025). Optimal Recovery Mode for New Energy Vehicle Battery Recycling Under Government Policies. Managerial and Decision Economics. [doi.org/10.1002/mde.4487](https://doi.org/10.1002/mde.4487)
 
