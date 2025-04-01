@@ -19,19 +19,23 @@ design:
 columns: "1"
 ---
 
-[22] 2024-2027: A Privacy-Aware Large Language Model for Interactive Enterprise Information Disclosure, *Collaborative project (No.P0053658)*, HKD 2,128,561, **PI**
+[24] 2025-2027: Computational intelligence by LLMs, *Postdoc Matching Fund Scheme (No.P0055217)*, HKD 390,000, **PI**
+
+[23] 2025-2028: Large Language Models for B2B Logistics, *Start-up Fund of PolyU (No.P0054904)*, HKD 1,000,000, **PI**
+
+[22] 2024-2027: A Privacy-Aware Large Language Model for Interactive Enterprise Information Disclosure, *Collaborative project & RIAM Matching Fund (No.P0053658 & P0055877)*, HKD 2,628,561, **PI**
 
 [21] 2025-2027: Federated ESG Auditing against Industry 4.0 Greenwashing, *RGC General Research Fund (No.PolyU15208824)*, HKD 1,228,953, **PI**
 
 [20] 2024-2026: AiFashion: Multi-modal and Multi-dimensional Large Model based on Self-Trained Customer Digital-Twin for Fashion Smart Social Manufacturing, *Innovation and Technology Fund (PRP/015/24TI)*, HKD 1,158,000/4,469,978, **Deputy PC/Co-PI**
 
-[19] 2024-2026: ESG Auditing Polices, *Postdoc Matching Fund Scheme*, HKD 365,400, **PI**
+[19] 2024-2026: ESG Auditing Polices, *Postdoc Matching Fund Scheme (No.P0052884)*, HKD 365,400, **PI**
 
-[18] 2024-2026: TouristESG: A blockchain-based tourist data sharing platform for ESG certification, *RCDTT Grant (No. P0051281)*, HKD 500,000, **PI**
+[18] 2024-2026: TouristESG: A blockchain-based tourist data sharing platform for ESG certification, *RCDTT Grant (No.P0051281)*, HKD 500,000, **PI**
 
-[17] 2024-2025: iWorkStation 4.0: A Human-Centric Smart Assembly Station, *Large Equipment Fund of PolyU (No. P0050895)*, HKD 1,314,532, **PI**
+[17] 2024-2025: iWorkStation 4.0: A Human-Centric Smart Assembly Station, *Large Equipment Fund of PolyU (No.P0050895)*, HKD 1,314,532, **PI**
 
-[16] 2024-2025: Blockchain-enabled creditable energy trading framework for multi-level virtual power plants, *Collaborative project (No.P0049930)*, HKD 400,000, **PI**
+[16] 2024-2025: Blockchain-enabled creditable energy trading framework for multi-level virtual power plants, *Collaborative Project (No.P0049930)*, HKD 400,000, **PI**
 
 [15] 2024-2027: Cyber-physical workstation for garment factory, *Centre for Transformative Garment Production (InnoHK, P0049228)*, HKD 2,253,900, **PI**
 
@@ -51,7 +55,7 @@ columns: "1"
 
 [7] 2021-2022: Blockchain-based Privacy Computing Method for Logistics Algorithm, *Industrial Project (No.DH-CG-202203025)*, RMB 75,000, **PI**
 
-[6] 2021-2022: Blockchain-based IoT Edge Computing Gateway and Data Service Platform, *Guangdong Provincial Enterprise Technology Correspondent Project (GDKTP2021051200)*, RMB 250,000, **PI**
+[6] 2021-2022: Blockchain-based IoT Edge Computing Gateway and Data Service Platform, *Guangdong Provincial Enterprise Technology Correspondent Project (No.GDKTP2021051200)*, RMB 250,000, **PI**
 
 [5] 2021-2023: Blockchain-based Digital Twin Encapsulation Sharing Method for Heterogeneous Social Manufacturing Resources, *National Natural Science Foundation of China (NSFC) (No.52005218)*, RMB 240,000, **PI**
 

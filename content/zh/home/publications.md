@@ -18,6 +18,12 @@ subtitle: (* 为通讯作者，^ 指导的学生/博士后)
 design:
 columns: "1"
 ---
+
+
+[32] Wu, H.^, **Li, M.** *, Yu, C., Ouyang, Z., Lai, K. H., Zhao, Z., ... & Huang, G. Q. (2025). Towards cyber-physical internet: A systematic review, fundamental model and future perspectives. Transportation Research Part E: Logistics and Transportation Review, 197, 104051.[https://doi.org/10.1016/j.tre.2025.104051](https://doi.org/10.1016/j.tre.2025.104051)
+
+[31] Yuan, Z.^, **Li, M.** *, Liu, C., Han, F., Huang, H., & Dai, H. N. (2025). Chat with MES: LLM-driven user interface for manipulating garment manufacturing system through natural language. Journal of Manufacturing Systems.[https://doi.org/10.1016/j.jmsy.2025.02.008](https://doi.org/10.1016/j.jmsy.2025.02.008)
+
 [30] Wu, W.^, **Li, M.** *, Yang, Y., Huang, B., Wang, S., & Huang, G. Q. (2025). Optimal deposit-return strategies for the recycling of spent electric automobile battery: manufacturer, retailer, or consumer. Transport Policy, 164:92-103. [doi.org/10.1016/j.tranpol.2025.01.035](https://doi.org/10.1016/j.tranpol.2025.01.035)
 
 [29] Wu, W.^, **Li, M.** *, & Huang, G. Q. (2025). Optimal Recovery Mode for New Energy Vehicle Battery Recycling Under Government Policies. Managerial and Decision Economics. [doi.org/10.1002/mde.4487](https://doi.org/10.1002/mde.4487)

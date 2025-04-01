@@ -18,6 +18,10 @@ subtitle: \* corresponding author <br> ^ supervised students/staff
 design:
 columns: "1"
 ---
+[32] Wu, H.^, **Li, M.** *, Yu, C., Ouyang, Z., Lai, K. H., Zhao, Z., ... & Huang, G. Q. (2025). Towards cyber-physical internet: A systematic review, fundamental model and future perspectives. Transportation Research Part E: Logistics and Transportation Review, 197, 104051.[https://doi.org/10.1016/j.tre.2025.104051](https://doi.org/10.1016/j.tre.2025.104051)
+
+[31] Yuan, Z.^, **Li, M.** *, Liu, C., Han, F., Huang, H., & Dai, H. N. (2025). Chat with MES: LLM-driven user interface for manipulating garment manufacturing system through natural language. Journal of Manufacturing Systems.[https://doi.org/10.1016/j.jmsy.2025.02.008](https://doi.org/10.1016/j.jmsy.2025.02.008)
+
 [30] Wu, W.^, **Li, M.** *, Yang, Y., Huang, B., Wang, S., & Huang, G. Q. (2025). Optimal deposit-return strategies for the recycling of spent electric automobile battery: manufacturer, retailer, or consumer. Transport Policy, 164:92-103. [doi.org/10.1016/j.tranpol.2025.01.035](https://doi.org/10.1016/j.tranpol.2025.01.035)
 
 [29] Wu, W.^, **Li, M.** *, & Huang, G. Q. (2025). Optimal Recovery Mode for New Energy Vehicle Battery Recycling Under Government Policies. Managerial and Decision Economics. [doi.org/10.1002/mde.4487](https://doi.org/10.1002/mde.4487)
@@ -60,7 +64,7 @@ columns: "1"
 
 [10] **Li, M.**, Fu, Y., Chen, Q., Qu T. (2023). Blockchain-enabled digital twin collaboration platform for heterogeneous socialized manufacturing resource management. *International Journal of Production Research*, 61(12), 3963-3983. [doi.org/10.1080/00207543.2021.1966118](https://doi.org/10.1080/00207543.2021.1966118)
 
-[8] Li, M., **Li, M.** *, Ding, H., Ling, S., & Huang, G. Q. (2022). Graduation-inspired synchronization for industry 4.0 planning, scheduling, and execution. *Journal of Manufacturing Systems*, 64, 94-106. [doi.org/10.1016/j.jmsy.2022.05.017](https://doi.org/10.1016/j.jmsy.2022.05.017)
+[9] Li, M., **Li, M.** *, Ding, H., Ling, S., & Huang, G. Q. (2022). Graduation-inspired synchronization for industry 4.0 planning, scheduling, and execution. *Journal of Manufacturing Systems*, 64, 94-106. [doi.org/10.1016/j.jmsy.2022.05.017](https://doi.org/10.1016/j.jmsy.2022.05.017)
 
 [8] **Li, M.**, Shao, S., Li, Y., Zhang, H., Zhang, N., & He, Y. (2022). A Physical Internet (PI) based inland container transportation problem with selective non-containerized shipping requests. *International Journal of Production Economics*, 245, 108403. [doi.org/10.1016/j.ijpe.2021.108403](https://doi.org/10.1016/j.ijpe.2021.108403)
 
