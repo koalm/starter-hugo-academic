@@ -19,25 +19,25 @@ design:
 columns: "1"
 ---
 
-[32] Lei, W.^, **Li,M.** *, Kuo, Y.H, & Huang, G. Q. (2025). Converged Address Resolution Protocol for Traceability and Visibility in Cyber-Physical Internet,"IEEE Internet of Things Journal (Early Access). [doi: 10.1109/JIOT.2025.3562803](https://doi.org/10.1109/JIOT.2025.3562803)
+[32] Lei, W.^, **Li, M.** *, Kuo, Y.H, & Huang, G. Q. (2025). Converged Address Resolution Protocol for Traceability and Visibility in Cyber-Physical Internet, *IEEE Internet of Things Journal* (Early Access). [doi: 10.1109/JIOT.2025.3562803](https://doi.org/10.1109/JIOT.2025.3562803)
 
-[31] Wu, H.^, **Li, M.** *, Yu, C., Ouyang, Z., Lai, K. H., Zhao, Z., ... & Huang, G. Q. (2025). Towards cyber-physical internet: A systematic review, fundamental model and future perspectives. Transportation Research Part E: Logistics and Transportation Review, 197, 104051. [doi.org/10.1016/j.tre.2025.104051](https://doi.org/10.1016/j.tre.2025.104051)
+[31] Wu, H.^, **Li, M.** *, Yu, C., Ouyang, Z., Lai, K. H., Zhao, Z., ... & Huang, G. Q. (2025). Towards cyber-physical internet: A systematic review, fundamental model and future perspectives. *Transportation Research Part E: Logistics and Transportation Review*, 197, 104051. [doi.org/10.1016/j.tre.2025.104051](https://doi.org/10.1016/j.tre.2025.104051)
 
-[30] Yuan, Z.^, **Li, M.** *, Liu, C., Han, F., Huang, H., & Dai, H. N. (2025). Chat with MES: LLM-driven user interface for manipulating garment manufacturing system through natural language. Journal of Manufacturing Systems. [doi.org/10.1016/j.jmsy.2025.02.008](https://doi.org/10.1016/j.jmsy.2025.02.008)
+[30] Yuan, Z.^, **Li, M.** *, Liu, C., Han, F., Huang, H., & Dai, H. N. (2025). Chat with MES: LLM-driven user interface for manipulating garment manufacturing system through natural language. *Journal of Manufacturing Systems*. [doi.org/10.1016/j.jmsy.2025.02.008](https://doi.org/10.1016/j.jmsy.2025.02.008)
 
-[29] Wu, W.^, **Li, M.** *, Yang, Y., Huang, B., Wang, S., & Huang, G. Q. (2025). Optimal deposit-return strategies for the recycling of spent electric automobile battery: manufacturer, retailer, or consumer. Transport Policy, 164:92-103. [doi.org/10.1016/j.tranpol.2025.01.035](https://doi.org/10.1016/j.tranpol.2025.01.035)
+[29] Wu, W.^, **Li, M.** *, Yang, Y., Huang, B., Wang, S., & Huang, G. Q. (2025). Optimal deposit-return strategies for the recycling of spent electric automobile battery: manufacturer, retailer, or consumer. *Transport Policy*, 164:92-103. [doi.org/10.1016/j.tranpol.2025.01.035](https://doi.org/10.1016/j.tranpol.2025.01.035)
 
-[28] **Li, M.**, Harish, A. R., Yu, C., Yu, Y., Zhong, R. Y., & Huang, G. Q. (2025). Blockchain-Based Medical Data Asset Sharing Framework for Healthcare 4.0. IEEE Transactions on Industrial Informatics, 21(4):2779-2788. [doi.org/10.1109/TII.2024.3488795](https://doi.org/10.1109/TII.2024.3488795)
+[28] **Li, M.**, Harish, A. R., Yu, C., Yu, Y., Zhong, R. Y., & Huang, G. Q. (2025). Blockchain-Based Medical Data Asset Sharing Framework for Healthcare 4.0. *IEEE Transactions on Industrial Informatics*, 21(4):2779-2788. [doi.org/10.1109/TII.2024.3488795](https://doi.org/10.1109/TII.2024.3488795)
 
-[27] Wu, W.^, **Li, M.** *, & Huang, G. Q. (2025). Optimal Recovery Mode for New Energy Vehicle Battery Recycling Under Government Policies. Managerial and Decision Economics. [doi.org/10.1002/mde.4487](https://doi.org/10.1002/mde.4487)
+[27] Wu, W.^, **Li, M.** *, & Huang, G. Q. (2025). Optimal Recovery Mode for New Energy Vehicle Battery Recycling Under Government Policies. *Managerial and Decision Economics*. [doi.org/10.1002/mde.4487](https://doi.org/10.1002/mde.4487)
 
-[26] Harish, A. R.^, Liu, X., **Li, M.** *, Zhong, R. Y., & Huang, G. Q. (2025). The new supply chain information sharing Renaissance through crypto valuation mechanism of digital assets. Transportation Research Part E: Logistics and Transportation Review, 195, 103962. [doi.org/10.1016/j.tre.2025.103962](https://doi.org/10.1016/j.tre.2025.103962)
+[26] Harish, A. R.^, Liu, X., **Li, M.** *, Zhong, R. Y., & Huang, G. Q. (2025). The new supply chain information sharing Renaissance through crypto valuation mechanism of digital assets. *Transportation Research Part E: Logistics and Transportation Review*, 195, 103962. [doi.org/10.1016/j.tre.2025.103962](https://doi.org/10.1016/j.tre.2025.103962)
 
-[25] Li, Z., Liang, F., & **Li, M.** * (2025). A fuzzy dematel-based delegated Proof-of-Stake consensus mechanism for medical model fusion on blockchain. Advanced Engineering Informatics, 64, 103095. [doi.org/10.1016/j.aei.2024.103095](https://doi.org/10.1016/j.aei.2024.103095)
+[25] Li, Z., Liang, F., & **Li, M.** * (2025). A fuzzy dematel-based delegated Proof-of-Stake consensus mechanism for medical model fusion on blockchain. *Advanced Engineering Informatics*, 64, 103095. [doi.org/10.1016/j.aei.2024.103095](https://doi.org/10.1016/j.aei.2024.103095)
 
-[24] Wu, W.^, **Li, M.** *, Zhang, M. *, Wang, Y., Wang, L., & You, Y. (2024). Electric vehicle battery closed-loop supply chain pricing and carbon reduction decisions under the carbon cap-and-trade and reward-penalty policies. Process Safety and Environmental Protection, 192, 1467-1482. [doi.org/10.1016/j.psep.2024.10.121](https://doi.org/10.1016/j.psep.2024.10.121)
+[24] Wu, W.^, **Li, M.** *, Zhang, M. *, Wang, Y., Wang, L., & You, Y. (2024). Electric vehicle battery closed-loop supply chain pricing and carbon reduction decisions under the carbon cap-and-trade and reward-penalty policies. *Process Safety and Environmental Protection*, 192, 1467-1482. [doi.org/10.1016/j.psep.2024.10.121](https://doi.org/10.1016/j.psep.2024.10.121)
 
-[23] You, Y.^, & **Li, M.** * (2025). Limited data-driven router bandwidth configuration for cyber physical internet. Expert Systems with Applications, 265, 126003.[doi.org/10.1016/j.eswa.2024.126003](https://doi.org/10.1016/j.eswa.2024.126003)
+[23] You, Y.^, & **Li, M.** * (2025). Limited data-driven router bandwidth configuration for cyber physical internet. *Expert Systems with Applications*, 265, 126003.[doi.org/10.1016/j.eswa.2024.126003](https://doi.org/10.1016/j.eswa.2024.126003)
 
 [22] Gui, H.^, **Li, M.** *, & Yuan, Z. (2024). A behavioral conditional diffusion probabilistic model for human motion modeling in multi-action mixed human-robot collaboration. *Advanced Engineering Informatics*, 62, 102742.[doi.org/10.1016/j.aei.2024.102742](https://doi.org/10.1016/j.aei.2024.102742)
 
