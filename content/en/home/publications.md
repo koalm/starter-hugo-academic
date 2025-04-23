@@ -19,7 +19,7 @@ design:
 columns: "1"
 ---
 
-[32] Lei, W.^, **Li,M.** *, Kuo, Y.H, & Huang, G. Q. (2025). Converged Address Resolution Protocol for Traceability and Visibility in Cyber-Physical Internet, *IEEE Internet of Things Journal* (Early Access). [doi: 10.1109/JIOT.2025.3562803](https://doi.org/10.1109/JIOT.2025.3562803)
+[32] Lei, W.^, **Li, M.** *, Kuo, Y.H, & Huang, G. Q. (2025). Converged Address Resolution Protocol for Traceability and Visibility in Cyber-Physical Internet, *IEEE Internet of Things Journal* (Early Access). [doi: 10.1109/JIOT.2025.3562803](https://doi.org/10.1109/JIOT.2025.3562803)
 
 [31] Wu, H.^, **Li, M.** *, Yu, C., Ouyang, Z., Lai, K. H., Zhao, Z., ... & Huang, G. Q. (2025). Towards cyber-physical internet: A systematic review, fundamental model and future perspectives. *Transportation Research Part E: Logistics and Transportation Review*, 197, 104051. [doi.org/10.1016/j.tre.2025.104051](https://doi.org/10.1016/j.tre.2025.104051)
 
