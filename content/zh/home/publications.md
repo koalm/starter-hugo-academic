@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 120
 
-title: Publications
-subtitle: \* corresponding author <br> ^ supervised students/staff
+title: 论文
+subtitle: \* 通讯作者 <br> ^ 指导的学生、博士后
 
 design:
 columns: "1"
