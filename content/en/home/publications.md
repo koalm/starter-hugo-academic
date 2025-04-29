@@ -18,6 +18,7 @@ subtitle: \* corresponding author <br> ^ supervised students/staff
 design:
 columns: "1"
 ---
+[33] Yang, F.^, Ren, C., Liu, W., Li, M., & **Li, M.** * (2025). Out-of-order enabled operating system for uncertain planning, scheduling and execution in aviation maintenance. Journal of Manufacturing Systems, 80, 824-840. [doi.org/10.1016/j.jmsy.2025.04.011](https://doi.org/10.1016/j.jmsy.2025.04.011)
 
 [32] Lei, W.^, **Li, M.** *, Kuo, Y. H., & Huang, G. Q. (2025). Converged Address Resolution Protocol for Traceability and Visibility in Cyber-Physical Internet, *IEEE Internet of Things Journal* (Early Access). [doi: 10.1109/JIOT.2025.3562803](https://doi.org/10.1109/JIOT.2025.3562803)
 
