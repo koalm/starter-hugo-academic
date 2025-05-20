@@ -4,7 +4,7 @@ summary: Project Assistant @ PolyU 2025.2-Now <br> B.A. (Fujian Normal Universit
 tags:
 - Ass
 
-date: 2022-09-22
+date: 2022-08-22
 order: 5
 # external_link: http://github.com
 

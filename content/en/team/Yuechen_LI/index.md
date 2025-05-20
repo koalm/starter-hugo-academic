@@ -4,7 +4,7 @@ summary: Project Assistant @ PolyU 2024.8-Now <br> B.E. (Shandong University of 
 tags:
 - Ass
 
-date: 2022-09-23
+date: 2022-08-23
 order: 5
 # external_link: http://github.com
 
