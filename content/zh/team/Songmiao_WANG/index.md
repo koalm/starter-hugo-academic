@@ -4,6 +4,6 @@ summary: 博士研究生 @ PolyU 2025/26 <br> 研究方向：多模态大模型 
 tags:
 - PhD
 
-date: 2022-08-27
+date: 2022-08-26
 order: 5
 # external_link: http://github.com
