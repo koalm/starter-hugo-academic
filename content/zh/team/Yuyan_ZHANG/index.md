@@ -1,6 +1,6 @@
 ---
 title: 张宇彦
-summary: 博士研究生 @ PolyU 2025/26 <br> 研究方向：智能体及RAG <br> 工学学士 (江南大学) <br> 工学硕士 (浙江大学)
+summary: 博士研究生 @ PolyU 2025/26 <br> 研究方向：代理式AI <br> 工学学士 (江南大学) <br> 工学硕士 (浙江大学)
 tags:
   - PhD
 
