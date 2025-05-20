@@ -1,6 +1,6 @@
 ---
 title: Shengqi LIN
-summary: PhD Student @ PolyU 2024/25 <br> Field of Study：Factory Instruction System <br> B.E. (Shandong University) <br> M.Sc. (South China University of Technology)
+summary: PhD Student @ PolyU 2024/25 <br> Field of Study：Factory Instruction System <br> B.E. (Shandong University) <br> M.E. (South China University of Technology)
 tags:
 - PhD
 
