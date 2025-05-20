@@ -18,9 +18,9 @@ subtitle: \* corresponding author <br> ^ supervised students/staff
 design:
 columns: "1"
 ---
+[34] Wu, W.^, **Li, M.** *, & Huang, G. Q. (2025). Comparisons of government policies for electric automobile battery recycling using system dynamics. *Waste Management*, 203, 114892. [doi.org/10.1016/j.wasman.2025.114892](https://doi.org/10.1016/j.wasman.2025.114892)
 
-
-[33] Yang, F.^, Ren, C., Liu, W., Li, M., & **Li, M.** * (2025). Out-of-order enabled operating system for uncertain planning, scheduling and execution in aviation maintenance. Journal of Manufacturing Systems, 80, 824-840. [doi.org/10.1016/j.jmsy.2025.04.011](https://doi.org/10.1016/j.jmsy.2025.04.011)
+[33] Yang, F.^, Ren, C., Liu, W., Li, M., & **Li, M.** * (2025). Out-of-order enabled operating system for uncertain planning, scheduling and execution in aviation maintenance. *Journal of Manufacturing Systems*, 80, 824-840. [doi.org/10.1016/j.jmsy.2025.04.011](https://doi.org/10.1016/j.jmsy.2025.04.011)
 
 [32] Lei, W.^, **Li, M.** *, Kuo, Y. H., & Huang, G. Q. (2025). Converged Address Resolution Protocol for Traceability and Visibility in Cyber-Physical Internet, *IEEE Internet of Things Journal* (Early Access). [doi: 10.1109/JIOT.2025.3562803](https://doi.org/10.1109/JIOT.2025.3562803)
 
