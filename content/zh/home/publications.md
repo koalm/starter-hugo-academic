@@ -18,6 +18,17 @@ subtitle: \* 通讯作者 <br> ^ 指导的学生、博士后
 design:
 columns: "1"
 ---
+
+[39] Ren, C.^, **Li, M.** *, Chen, C., Guan, X., & Huang, G. Q. (2026). Multi-modal digital twins for industrial anomaly detection: Framework, method, and application. Robotics and Computer-Integrated Manufacturing, 97, 103068. [doi.org/10.1016/j.rcim.2025.103068](https://doi.org/10.1016/j.rcim.2025.103068)
+
+[38] Li, M., Qian, X., **Li, M.** *, Qu, T., & He, Z. (2025). An order postponement strategy for multi-stage production-logistics synchronization towards zero-warehousing smart manufacturing. Journal of Manufacturing Systems, 82, 389-404. [doi.org/10.1016/j.jmsy.2025.06.024](https://doi.org/10.1016/j.jmsy.2025.06.024)
+
+[37] Harish, A. R.^, Liu, X., Wang, X., Pan, S., Dai, H. N., **Li, M.** *, & Huang, G. Q. (2025). Blockchain For Logistics 4.0: A Systematic Review and Prospects. Transportation Research Part E: Logistics and Transportation Review, 201, 104269. [doi.org/10.1016/j.tre.2025.104269](https://doi.org/10.1016/j.tre.2025.104269)
+
+[36] Yu, C.^, Yu, Y., Zhong, R. Y., & **Li, M.** * (2025). Cross-block asynchronous blockchain: a new paradigm for enhanced blockchain performance. Advanced Engineering Informatics, 67, 103563. [doi.org/10.1016/j.aei.2025.103563](https://doi.org/10.1016/j.aei.2025.103563)
+
+[35] Wu, W.^, **Li, M.** *, Wu, Z. and Yi, Z. (2025). Incentive mechanism design for electric vehicle battery supply chain under information asymmetry and government intervention. *Industrial Management & Data Systems*. [doi.org/10.1108/IMDS-10-2024-1068](https://doi.org/10.1108/IMDS-10-2024-1068)
+
 [34] Wu, W.^, **Li, M.** *, & Huang, G. Q. (2025). Comparisons of government policies for electric automobile battery recycling using system dynamics. *Waste Management*, 203, 114892. [doi.org/10.1016/j.wasman.2025.114892](https://doi.org/10.1016/j.wasman.2025.114892)
 
 [33] Yang, F.^, Ren, C., Liu, W., Li, M., & **Li, M.** * (2025). Out-of-order enabled operating system for uncertain planning, scheduling and execution in aviation maintenance. *Journal of Manufacturing Systems*, 80, 824-840. [doi.org/10.1016/j.jmsy.2025.04.011](https://doi.org/10.1016/j.jmsy.2025.04.011)

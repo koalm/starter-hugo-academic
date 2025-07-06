@@ -18,7 +18,8 @@ subtitle:
 design:
 columns: "1"
 ---
-
+[25] 2026-2028: Large language model (LLM)-driven Industry 4.0 ESG disclosure, *RGC General Research Fund (No.PolyU15215325)*, HKD 1,108,779, **PI**
+ 
 [24] 2025-2027: Computational intelligence by LLMs, *Postdoc Matching Fund Scheme (No.P0055217)*, HKD 390,000, **PI**
 
 [23] 2025-2028: Large Language Models for B2B Logistics, *Start-up Fund of PolyU (No.P0054904)*, HKD 1,000,000, **PI**
