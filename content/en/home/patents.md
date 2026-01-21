@@ -18,6 +18,9 @@ subtitle:
 design:
 columns: "1"
 ---
+
+[18] **Li Ming**, Travel data privacy method and system, *Chinese invention*, CN114969812A, 21/10/2025.
+
 [17] **Li Ming**, A low power electronic tag and control method based on NB-IoT, *Chinese invention*, ZL202110532437.X, 03/03/2023.
 
 [16] **Li Ming**, An automated medical sorting system and method, *Chinese invention*, ZL202110525609.0, 14/02/2023.
