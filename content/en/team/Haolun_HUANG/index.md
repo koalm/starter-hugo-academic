@@ -1,10 +1,10 @@
 ---
-title: Haolun HUANG  
-summary: Master Student @ JNU 2022/23 <br> Field of Study：Electronic and Information Engineering <br> B.E. (Guangdong Polytechnic Normal University)
+title: Haolun HUANG (Graduated)
+summary: Graduate @ JNU 2022/23 <br> Field of Study：Electronic and Information Engineering <br> Job：Software Engineer @ Dongguan Bank
 tags:
-- Master
+- Graduate
 
-date: 2022-09-10
+date: 2021-09-25
 order: 5
 # external_link: http://github.com
 

@@ -23,7 +23,7 @@ columns: "1"
 
 [28] 2026-2030: Collaborative Generative AI (Co-GenAI), *Hong Kong RGC Theme-based Research Scheme (No.T41-517/25-N)*, HK$ 36,985,000/62,606,000, **Co-I**
 
-[27] 2026-2030: Reallm: World-leading Enterprise GenAI Infrastructure Solution, *Research, Academic and Industry Sectors One-plus (RAISe+) Scheme (No.RAI/24/1/086A)*, HK$ 54,000,000, **Co-PI**
+[27] 2026-2030: Reallm: World-leading Enterprise GenAI Infrastructure Solution, *Research, Academic and Industry Sectors One-plus (RAISe+) Scheme (No.RAI/24/1/086A)*, HK$ 53,394,000, **Co-PI**
 
 [26] 2026-2028: Large language model (LLM)-driven Industry 4.0 ESG disclosure, *RGC General Research Fund (No.PolyU15215325)*, HK$1,108,779, **PI**
 
