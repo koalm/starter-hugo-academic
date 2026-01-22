@@ -19,7 +19,14 @@ design:
 columns: "1"
 ---
 
-**会员**
+**管理职务**
+- 香港理工大学生成式人工智能研究院 副院长 (2026 -)
+- 香港理工大学人工智能高等研究院 助理院长 (2025 -)
+- 香港理工大学大亚湾创新研究院人工智能研究中心 副主任（2025 - ）
+- 香港理工大学协作生成式人工智能研究中心 副主任（2025 -）
+
+
+**学术会员**
 - 香港工程师协会 企业会员 (2025 - )
 - 香港理工大学旅游业数字化转型研究中心 会员 (2024 - )
 - 中国计算机协会CCF 高级会员 (2024 - )
@@ -46,11 +53,4 @@ columns: "1"
 - Special Session “Smart Buildings and Community”, 2019 IEEE International Conference on Automation Science and Engineering, Vancouver, BC, Canada.
 - Special Session “PSS Value Network Innovation and Operations Management A”, 11th CIRP International Conference on Industrial Product Service Systems (CIRP IPS2 2019), Zhuhai, China.
 
-**审稿人**	
 
-- International Journal of Production Economics
-- Robotics and Computer-Integrated Manufacturing
-- Computers & Industrial Engineering
-- Annals of Operations Research
-- IET Collaborative Intelligent Manufacturing
-- Heliyon

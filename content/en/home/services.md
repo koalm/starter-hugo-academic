@@ -19,6 +19,13 @@ design:
 columns: "1"
 ---
 
+**Directorship**
+-Associate Director, Research Institute for Generative AI (2026 -)
+-Assistant Director, PolyU Academy for Artificial Intelligence (2025 -)
+-Associate Director, Artificial Intelligence Research Centre @PolyU-Daya Bay Technology and Innovation Research Institute （2025 - ）
+-Associate Director, Collaborative Generative AI (Co-GenAI) Research Centre （2025 -）
+
+
 **Membership**
 - Member, The Hong Kong Institution of Engineers (2025 - )
 - Member, Research Centre for Digital Transformation of Tourism, The Hong Kong Polytechnic University (2024 - )
