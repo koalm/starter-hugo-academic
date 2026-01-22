@@ -23,27 +23,27 @@ columns: "1"
 
 
 
-[46] Gui, H.^,& Li, M.* (2026). A temporal spatial human digital twin approach for modeling human behavior with uncertainty. Robotics and Computer-Integrated Manufacturing, 99, 103203. [doi.org/10.1016/j.rcim.2025.103203](https://doi.org/10.1016/j.rcim.2025.103203)
+[46] Gui, H.^,& **Li, M.** * (2026). A temporal spatial human digital twin approach for modeling human behavior with uncertainty. *Robotics and Computer-Integrated Manufacturing*, 99, 103203. [doi.org/10.1016/j.rcim.2025.103203](https://doi.org/10.1016/j.rcim.2025.103203)
 
-[45] Ren, C.^, **Li, M.** *, Chen, C., Guan, X., & Huang, G. Q. (2026). Multi-modal digital twins for industrial anomaly detection: Framework, method, and application. Robotics and Computer-Integrated Manufacturing, 97, 103068. [doi.org/10.1016/j.rcim.2025.103068](https://doi.org/10.1016/j.rcim.2025.103068)
+[45] Ren, C.^, **Li, M.** *, Chen, C., Guan, X., & Huang, G. Q. (2026). Multi-modal digital twins for industrial anomaly detection: Framework, method, and application. *Robotics and Computer-Integrated Manufacturing*, 97, 103068. [doi.org/10.1016/j.rcim.2025.103068](https://doi.org/10.1016/j.rcim.2025.103068)
 
-[44] Gui, H.^, Yang, Z., Harish, A. R., Ren, C., Yang, Y., & Li, M.* (2025). GenPattern: dual-graph enhanced sewing pattern generation via multimodal large language model. Journal of Manufacturing Systems, 83, 822-838. [doi.org/10.1016/j.jmsy.2025.11.005](https://doi.org/10.1016/j.jmsy.2025.11.005)
+[44] Gui, H.^, Yang, Z., Harish, A. R., Ren, C., Yang, Y., & **Li, M.** * (2025). GenPattern: dual-graph enhanced sewing pattern generation via multimodal large language model. *Journal of Manufacturing Systems*, 83, 822-838. [doi.org/10.1016/j.jmsy.2025.11.005](https://doi.org/10.1016/j.jmsy.2025.11.005)
 
-[43] Wu, W.^, Li, M.*, Li, J., & Wang, Y. (2025). Exploring the role of renewable energy expansion in mitigating energy poverty in China. Environment, Development and Sustainability, 1-19. [doi.org/10.1007/s10668-025-07077-4)](https://doi.org/10.1007/s10668-025-07077-4)
+[43] Wu, W.^, **Li, M.** *, Li, J., & Wang, Y. (2025). Exploring the role of renewable energy expansion in mitigating energy poverty in China. *Environment, Development and Sustainability*, 1-19. [doi.org/10.1007/s10668-025-07077-4)](https://doi.org/10.1007/s10668-025-07077-4)
 
-[42] Wu, W.^, Li, M.*, Wang, Y., & Zhang, M. (2025). Investigate the impact of social interaction on pro-environmental behavior-evidence from the Chinese general social survey. Environment, Development and Sustainability, 1-20. [doi.org/10.1007/s10668-025-07004-7](https://doi.org/10.1007/s10668-025-07004-7)
+[42] Wu, W.^, **Li, M.** *, Wang, Y., & Zhang, M. (2025). Investigate the impact of social interaction on pro-environmental behavior-evidence from the Chinese general social survey. *Environment, Development and Sustainability*, 1-20. [doi.org/10.1007/s10668-025-07004-7](https://doi.org/10.1007/s10668-025-07004-7)
 
-[41] Wu, W.^, Li, M.*, & Huang, G. Q. (2025). Government incentive mechanism design for electric vehicles battery remanufacturer and recycler under information asymmetry. Energy Economics, 108749. [doi.org/10.1016/j.eneco.2025.108749](https://doi.org/10.1016/j.eneco.2025.108749)
+[41] Wu, W.^, **Li, M.** *, & Huang, G. Q. (2025). Government incentive mechanism design for electric vehicles battery remanufacturer and recycler under information asymmetry. *Energy Economics*, 108749. [doi.org/10.1016/j.eneco.2025.108749](https://doi.org/10.1016/j.eneco.2025.108749)
 
-[40] Li, M.^, Liu, F., Li, M.*, Zhou, Q., Ling, S., Qu, T., & He, Z. (2025). Operation twins-driven human-centric replenishment-kitting synchronization for smart customized production logistics. Advanced Engineering Informatics, 68, 103687. [doi.org/10.1016/j.aei.2025.103687](https://doi.org/10.1016/j.aei.2025.103687)
+[40] Li, M.^, Liu, F., **Li, M.** *, Zhou, Q., Ling, S., Qu, T., & He, Z. (2025). Operation twins-driven human-centric replenishment-kitting synchronization for smart customized production logistics. *Advanced Engineering Informatics*, 68, 103687. [doi.org/10.1016/j.aei.2025.103687](https://doi.org/10.1016/j.aei.2025.103687)
 
-[39] Wu, W.^, Li, M.*, Wang, Y., Huang, H., & Huang, G. Q. (2025). How Renewable Energy Expansion Affects Carbon Emissions from the Perspective of Spatial Correlation—Evidence in China. Applied Spatial Analysis and Policy, 18(3), 89. [doi.org/10.1007/s12061-025-09698-8](https://doi.org/10.1007/s12061-025-09698-8)
+[39] Wu, W.^, **Li, M.** *, Wang, Y., Huang, H., & Huang, G. Q. (2025). How Renewable Energy Expansion Affects Carbon Emissions from the Perspective of Spatial Correlation—Evidence in China. *Applied Spatial Analysis and Policy*, 18(3), 89. [doi.org/10.1007/s12061-025-09698-8](https://doi.org/10.1007/s12061-025-09698-8)
 
-[38] Li, M., Qian, X., **Li, M.** *, Qu, T., & He, Z. (2025). An order postponement strategy for multi-stage production-logistics synchronization towards zero-warehousing smart manufacturing. Journal of Manufacturing Systems, 82, 389-404. [doi.org/10.1016/j.jmsy.2025.06.024](https://doi.org/10.1016/j.jmsy.2025.06.024)
+[38] Li, M., Qian, X., **Li, M.** *, Qu, T., & He, Z. (2025). An order postponement strategy for multi-stage production-logistics synchronization towards zero-warehousing smart manufacturing. *Journal of Manufacturing Systems*, 82, 389-404. [doi.org/10.1016/j.jmsy.2025.06.024](https://doi.org/10.1016/j.jmsy.2025.06.024)
 
-[37] Harish, A. R.^, Liu, X., Wang, X., Pan, S., Dai, H. N., **Li, M.** *, & Huang, G. Q. (2025). Blockchain For Logistics 4.0: A Systematic Review and Prospects. Transportation Research Part E: Logistics and Transportation Review, 201, 104269. [doi.org/10.1016/j.tre.2025.104269](https://doi.org/10.1016/j.tre.2025.104269)
+[37] Harish, A. R.^, Liu, X., Wang, X., Pan, S., Dai, H. N., **Li, M.** *, & Huang, G. Q. (2025). Blockchain For Logistics 4.0: A Systematic Review and Prospects. *Transportation Research Part E: Logistics and Transportation Review*, 201, 104269. [doi.org/10.1016/j.tre.2025.104269](https://doi.org/10.1016/j.tre.2025.104269)
 
-[36] Yu, C.^, Yu, Y., Zhong, R. Y., & **Li, M.** * (2025). Cross-block asynchronous blockchain: a new paradigm for enhanced blockchain performance. Advanced Engineering Informatics, 67, 103563. [doi.org/10.1016/j.aei.2025.103563](https://doi.org/10.1016/j.aei.2025.103563)
+[36] Yu, C.^, Yu, Y., Zhong, R. Y., & **Li, M.** * (2025). Cross-block asynchronous blockchain: a new paradigm for enhanced blockchain performance. *Advanced Engineering Informatics*, 67, 103563. [doi.org/10.1016/j.aei.2025.103563](https://doi.org/10.1016/j.aei.2025.103563)
 
 [35] Wu, W.^, **Li, M.** *, Wu, Z. and Yi, Z. (2025). Incentive mechanism design for electric vehicle battery supply chain under information asymmetry and government intervention. *Industrial Management & Data Systems*. [doi.org/10.1108/IMDS-10-2024-1068](https://doi.org/10.1108/IMDS-10-2024-1068)
 

@@ -1,6 +1,6 @@
 ---
-title: Haolun HUANG (Graduated)
-summary: Graduate @ JNU 2022/23 <br> Field of Study：Electronic and Information Engineering <br> Job：Software Engineer @ Dongguan Bank
+title: Haolun HUANG
+summary: Master Student @ JNU 2022/23 (Graduated) <br> Field of Study：Electronic and Information Engineering <br> Job：Software Engineer @ Dongguan Bank
 tags:
 - Graduate
 
