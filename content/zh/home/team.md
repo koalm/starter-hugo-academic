@@ -38,8 +38,6 @@ content:
     tag: PhD
   - name: 硕士研究生
     tag: Master
-  - name: 研究助理
-    tag: Ass
   - name: 毕业生
     tag: Graduate
   
