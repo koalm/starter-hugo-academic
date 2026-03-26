@@ -38,8 +38,6 @@ content:
     tag: PhD
   - name: Mphil
     tag: Mphil
-  - name: Master
-    tag: Master
   - name: Alumni
     tag: Alumni
   - name: Graduate
