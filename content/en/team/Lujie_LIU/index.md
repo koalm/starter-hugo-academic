@@ -1,5 +1,5 @@
 ---
-title: Lujie LYU  
+title: Lujie LIU  
 summary: Postdoctoral Fellow 2025.9 - Now <br> Research Interests：VRP LLM <br> B.E. (Wuhan University of Technology) <br> Ph.D (Beihang University)
 tags:
 - PDF
