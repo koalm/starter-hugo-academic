@@ -19,13 +19,15 @@ design:
 columns: "1"
 ---
 
+[30] 2026-2028: SLAssIstants: Multi-Agentic Generative AI-Driven Smart Logistics Assistants for B2B Cross-border Multi-stage Multi-modal Logistics, *Innovation and Technology Fund (ITP/003/26LP)*, HK$ 10,999,044, **PC**
 
+[29] 2026-2030: Collaborative Generative AI (Co-GenAI), *Hong Kong RGC Theme-based Research Scheme (No.T41-517/25-N)*, HK$ 36,985,000/62,606,000, **Co-I**
 
-[28] 2026-2030: Collaborative Generative AI (Co-GenAI), *Hong Kong RGC Theme-based Research Scheme (No.T41-517/25-N)*, HK$ 36,985,000/62,606,000, **Co-I**
+[28] 2026-2030: Reallm: World-leading Enterprise GenAI Infrastructure Solution, *Research, Academic and Industry Sectors One-plus (RAISe+) Scheme (No.RAI/24/1/086A)*, HK$ 53,394,000, **Co-PI**
 
-[27] 2026-2030: Reallm: World-leading Enterprise GenAI Infrastructure Solution, *Research, Academic and Industry Sectors One-plus (RAISe+) Scheme (No.RAI/24/1/086A)*, HK$ 53,394,000, **Co-PI**
+[27] 2026-2028: Large language model (LLM)-driven Industry 4.0 ESG disclosure, *RGC General Research Fund (No.PolyU15215325)*, HK$1,108,779, **PI**
 
-[26] 2026-2028: Large language model (LLM)-driven Industry 4.0 ESG disclosure, *RGC General Research Fund (No.PolyU15215325)*, HK$1,108,779, **PI**
+[26] 2025-2027：Garment GenAI Hub: Blockchain-based Large Language Edge Model Sharing for Garment Knowledge and Experience Encapsulation，*Innovation and Technology Fund (ITP/046/25TI)*, HK$5,103,700, **PC**
 
 [25] 2025-2029: Indoor BM Equipment Locator System, *Collaborative project (No.P0059476)*, HK$ 3,117,900, **PI**
  
