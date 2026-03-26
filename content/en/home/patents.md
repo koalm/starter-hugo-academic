@@ -19,7 +19,9 @@ design:
 columns: "1"
 ---
 
-[18] **Li Ming**, Travel data privacy method and system, *Chinese invention*, CN114969812A, 21/10/2025.
+[19] **Li Ming**, Travel data privacy method and system, *Chinese invention*, CN114969812B, 21/10/2025.
+
+[18] **Li Ming**, Xie Yangrui, Logistics tracing method capable of sharing data, *Chinese invention*, CN110234087B, 15/10/2024.
 
 [17] **Li Ming**, A low power electronic tag and control method based on NB-IoT, *Chinese invention*, ZL202110532437.X, 03/03/2023.
 

@@ -19,6 +19,14 @@ design:
 columns: "1"
 ---
 
+[31] Multi-modal Sensing and Decision System for Digital Waitron V1.0, 2026SR0190251
+
+[30] Smart Factory Operating System V1.0, 2026SR0182746
+
+[29] Blockchain-based On-chain AI Servitization Systgem V1.0, 2026SR0158767
+
+[28] Blockchain-based Medical Asset Sharing System V1.0, 2026SR0158721
+
 [27] Trip Data Privacy Supervision System for Epidemic Prevention and Control V1.0, 2022SR0665324.
 
 [26] Digital Asset Privacy Depository System V1.0, 2022SR0665325.
