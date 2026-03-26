@@ -49,7 +49,7 @@ columns: "1"
 
 [16] 2024-2025: Blockchain-enabled creditable energy trading framework for multi-level virtual power plants, *Collaborative Project (No.P0049930)*, HK$ 400,000, **PI**
 
-[15] 2024-2027: Cyber-physical workstation for garment factory, *Centre for Transformative Garment Production (InnoHK, P0049228)*, HK$ 1,531,200, **PI**
+[15] 2024-2025: Cyber-physical workstation for garment factory, *Centre for Transformative Garment Production (InnoHK, P0049228)*, HK$ 1,531,200, **PI**
 
 [14] 2023-2025: Out-of-Order Based Smart Production-Logistics Instruction System, *Departmental General Research Fund (No.P0045748)*, HK$ 400,000, **PI**
 
