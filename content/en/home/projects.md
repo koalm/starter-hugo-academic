@@ -19,7 +19,7 @@ design:
 columns: "1"
 ---
 
-
+[30] 2026-2028: SLAssIstants: Multi-Agentic Generative AI-Driven Smart Logistics Assistants for B2B Cross-border Multistage Multi-modal Logistics, *Innovation and Technology Fund (No.ITP/003/26LP)*, HK$ 10,999,043, **PC**
 
 [29] 2026-2030: Collaborative Generative AI (Co-GenAI), *Hong Kong RGC Theme-based Research Scheme (No.T41-517/25-N)*, HK$ 36,985,000/62,606,000, **Co-I**
 
