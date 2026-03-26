@@ -1,6 +1,6 @@
 ---
-title: Jiawei SHENG
-summary: PhD Student @ PolyU 2024/25 <br> Field of Study：Time-series Blockchain <br> B.S. (University of Liverpool) <br> M.Sc. (University College London)
+title: 盛家唯
+summary: 博士研究生 @ PolyU 2024/25 <br> 研究方向：时序区块链 <br> 理学学士 (利物浦大学) <br> 理学硕士 (伦敦大学学院)
 tags:
 - PhD
 
