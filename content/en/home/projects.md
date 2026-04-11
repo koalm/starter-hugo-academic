@@ -21,7 +21,7 @@ columns: "1"
 
 [31] 2026-2028: Agentic Assistants for E-commerce Clothing Operation under Brand Ecosystem, *Innovation and Technology Fund (No.ITP/013/26TI)*, HK$ 6,375,002, **PC**
 
-[30] 2026-2028: SLAssIstants: Multi-Agentic Generative AI-Driven Smart Logistics Assistants for B2B Cross-border Multistage Multi-modal Logistics, *Innovation and Technology Fund (No.ITP/003/26LP)*, HK$ 10,999,043, **PC**
+[30] 2026-2028: SLAssIstants: Multi-Agentic Generative AI-Driven Smart Logistics Assistants for B2B Cross-border Multistage Multi-modal Logistics, *Innovation and Technology Fund (No.ITP/003/26LP)*, HK$ 10,999,044, **PC**
 
 [29] 2026.1-2028.12: Blockchain-based multi-party collaborative evaluation method for ESG disclosure, *Natural Science Foundation of Guangdong Province, China (No.2026A1515011874)*, RMB 100,000, **PI**
 
