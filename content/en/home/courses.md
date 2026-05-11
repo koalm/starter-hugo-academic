@@ -30,4 +30,4 @@ columns: "1"
 - [UG] ISE3014 Warehousing management and technologies (2023 Fall)
 - [PG] ISE544 Supply chain management enabling technologies (2024 Spring)
 - [PG] ISE512 Warehousing and material handling systems (2024&2025&2026 Spring)
-- [PG] ISE5321 Cyber-Physical Industry 4.0 Systems (2025&2026 Spring)
+- [PG] ISE5321 Cyber-physical Industry 4.0 systems (2025&2026 Spring)

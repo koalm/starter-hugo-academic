@@ -29,7 +29,7 @@ columns: "1"
 **Membership**
 - Fellow, Institution of Engineering and Technology (IET) (2026 - )
 - Member, Association for Computational Linguistics (ACL) (2026 -)
-- Member,Association for Computing Machinery (ACM) (2026 - )
+- Member, Association for Computing Machinery (ACM) (2026 - )
 - Member, Hong Kong Institution of Engineers (HKIE) (2025 - )
 - Senior Member, China Computer Federation (CCF) (2024 - )
 - Senior Member, Institute of Electrical and Electronics Engineers (IEEE) (2024 - )
