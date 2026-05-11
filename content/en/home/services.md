@@ -27,13 +27,15 @@ columns: "1"
 
 
 **Membership**
-- Member, The Hong Kong Institution of Engineers (2025 - )
-- Member, Research Centre for Digital Transformation of Tourism, The Hong Kong Polytechnic University (2024 - )
+- Fellow, Institution of Engineering and Technology (IET) (2026 - )
+- Member, Association for Computational Linguistics (ACL) (2026 -)
+- Member,Association for Computing Machinery (ACM) (2026 - )
+- Member, Hong Kong Institution of Engineers (HKIE) (2025 - )
 - Senior Member, China Computer Federation (CCF) (2024 - )
 - Senior Member, Institute of Electrical and Electronics Engineers (IEEE) (2024 - )
 - Member,	Institute of Industrial and Systems Engineers (IISE) (2023 - )
 - Member, American Society of Mechanical Engineers (ASME) (2022 - )
-- Member,	Research Institute for Advanced Manufacturing, The Hong Kong Polytechnic University (2022 - )
+
 
 
 **Committee Member**
