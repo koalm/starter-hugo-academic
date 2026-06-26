@@ -18,6 +18,7 @@ subtitle:
 design:
 columns: "1"
 ---
+[20] **Li Ming**, Sheng Jiawei, Time series data storage methods and devices, blockchain systems and storage media, *Chinese invention*, CN121880334B, 12/06/2026.
 
 [19] **Li Ming**, Travel data privacy method and system, *Chinese invention*, CN114969812B, 21/10/2025.
 

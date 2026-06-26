@@ -19,6 +19,8 @@ design:
 columns: "1"
 ---
 
+[49] Wei, X., **Li, M.** *, Li, R., & Zhou, J. (2026). Facilitating group consensus for offshore oil and gas decommissioning options: An improved similarity-based model. Journal of Cleaner Production, 569, 148737.[doi.org/10.1016/j.jclepro.2026.148737](https://doi.org/10.1016/j.jclepro.2026.148737)
+
 [48] You, Y.^, Yu, C., Ouyang, Z., & **Li, M.** * (2026). Four-dimensional spatial-temporal packet encapsulation in the Cyber-Physical Internet: A reinforcement learning approach. *Transportation Research Part E: Logistics and Transportation Review*, 211, 104843. [https://doi.org/10.1016/j.tre.2026.104843](https://doi.org/10.1016/j.tre.2026.104843)
 
 [47] He, J.^, Ren, C., **Li, M.** *, & Huang, G. Q. (2026). From computer CPU to factory CPU: A synchronization framework for customized production. *Journal of Manufacturing Systems*, 86, 624-640. [doi.org/10.1016/j.jmsy.2026.04.009](https://doi.org/10.1016/j.jmsy.2026.04.009)
