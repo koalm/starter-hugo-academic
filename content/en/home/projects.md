@@ -19,11 +19,11 @@ design:
 columns: "1"
 ---
 
-<!--[31] 2026.3-2028.3: Agentic Assistants for E-commerce Clothing Operation under Brand Ecosystem, *Innovation and Technology Fund (No.ITP/013/26TI)*, HK$ 6,375,002, **PC**
+[31] 2026.3-2028.3: Agentic Assistants for E-commerce Clothing Operation under Brand Ecosystem, *Innovation and Technology Fund (No.ITP/013/26TI)*, HK$ 6,375,002, **PC**
 
 [30] 2026.3-2028.3: SLAssIstants: Multi-Agentic Generative AI-Driven Smart Logistics Assistants for B2B Cross-border Multistage Multi-modal Logistics, *Innovation and Technology Fund (No.ITP/003/26LP)*, HK$ 10,999,044, **PC**
 
-[29] 2026.1-2028.12: Blockchain-based multi-party collaborative evaluation method for ESG disclosure, *Natural Science Foundation of Guangdong Province, China (No.2026A1515011874)*, RMB 100,000, **PI** -->
+[29] 2026.1-2028.12: Blockchain-based multi-party collaborative evaluation method for ESG disclosure, *Natural Science Foundation of Guangdong Province, China (No.2026A1515011874)*, RMB 100,000, **PI**
 
 [28] 2026.1-2030.12: Collaborative Generative AI (Co-GenAI), *Hong Kong RGC Theme-based Research Scheme (No.T41-517/25-N)*, HK$ 36,985,000/62,606,000, **Co-I**
 
