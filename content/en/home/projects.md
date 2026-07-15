@@ -19,6 +19,8 @@ design:
 columns: "1"
 ---
 
+[32] 2027.1-2029.12: Agentic Sewing Template Designer for Small-Lot Garment Production, *Early Career Scheme (No.25208626)*, HK$ 535,546, **PI**
+
 [31] 2026.3-2028.3: Agentic Assistants for E-commerce Clothing Operation under Brand Ecosystem, *Innovation and Technology Fund (No.ITP/013/26TI)*, HK$ 6,375,002, **PC**
 
 [30] 2026.3-2028.3: SLAssIstants: Multi-Agentic Generative AI-Driven Smart Logistics Assistants for B2B Cross-border Multistage Multi-modal Logistics, *Innovation and Technology Fund (No.ITP/003/26LP)*, HK$ 10,999,044, **PC**
@@ -29,7 +31,7 @@ columns: "1"
 
 [27] 2026.1-2030.12: Reallm: World-leading Enterprise GenAI Infrastructure Solution, *Research, Academic and Industry Sectors One-plus (RAISe+) Scheme (No.RAI/24/1/086A)*, HK$ 53,394,000, **Co-PI**
 
-[26] 2026.1-2028.12: Large language model (LLM)-driven Industry 4.0 ESG disclosure, *RGC General Research Fund (No.PolyU15215325)*, HK$1,108,779, **PI**
+[26] 2026.1-2028.12: Large language model (LLM)-driven Industry 4.0 ESG disclosure, *RGC General Research Fund (No.15215325)*, HK$1,108,779, **PI**
 
 [25] 2025.12-2029.12: Indoor BM Equipment Locator System, *Collaborative project (No.P0059476)*, HK$ 3,117,900, **PI**
 
@@ -39,7 +41,7 @@ columns: "1"
 
 [22] 2025.3-2028.3: Large Language Models for B2B Logistics, *Start-up Fund of PolyU (No.P0054904)*, HK$ 1,000,000, **PI**
 
-[21] 2025.1-2027.12: Federated ESG Auditing against Industry 4.0 Greenwashing, *RGC General Research Fund (No.PolyU15208824)*, HK$ 1,228,953, **PI**
+[21] 2025.1-2027.12: Federated ESG Auditing against Industry 4.0 Greenwashing, *RGC General Research Fund (No.15208824)*, HK$ 1,228,953, **PI**
 
 [20] 2024.11-2027.10: A Privacy-Aware Large Language Model for Interactive Enterprise Information Disclosure, *Collaborative project & RIAM Matching Fund (No.P0053658 & P0055877)*, HK$ 2,628,561, **PI**
 

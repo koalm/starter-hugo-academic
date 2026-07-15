@@ -18,11 +18,11 @@ subtitle:
 design:
 columns: "1"
 ---
-[20] **Li Ming**, Sheng Jiawei, Time series data storage methods and devices, blockchain systems and storage media, *Chinese invention*, CN121880334B, 12/06/2026.
+[20] **Li Ming**, Sheng Jiawei, Time series data storage methods and devices, blockchain systems and storage media, *Chinese invention*, ZL202610329321.9, 12/06/2026.
 
-[19] **Li Ming**, Travel data privacy method and system, *Chinese invention*, CN114969812B, 21/10/2025.
+[19] **Li Ming**, Travel data privacy method and system, *Chinese invention*, ZL202210535852.5, 21/10/2025.
 
-[18] **Li Ming**, Xie Yangrui, Logistics tracing method capable of sharing data, *Chinese invention*, CN110234087B, 15/10/2024.
+[18] **Li Ming**, Xie Yangrui, Logistics tracing method capable of sharing data, *Chinese invention*, ZL201910527814.3,, 15/10/2024.
 
 [17] **Li Ming**, A low power electronic tag and control method based on NB-IoT, *Chinese invention*, ZL202110532437.X, 03/03/2023.
 
