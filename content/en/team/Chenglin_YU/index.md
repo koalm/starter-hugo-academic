@@ -1,6 +1,6 @@
 ---
 title: Chenglin YU
-summary: Postdoctoral Fellow 2026.5 - Now <br> Research Interests：Agentic AI <br> B.E. (China University of Geosciences, Beijing) <br> MSc. (The George Washington University) (<br> Ph.D (The University of Hong Kong)
+summary: Postdoctoral Fellow 2026.5 - Now <br> Research Interests：Agentic AI <br> B.E. (China University of Geosciences, Beijing) <br> MSc. (The George Washington University) <br> Ph.D (The University of Hong Kong)
 tags:
 - PDF
 
