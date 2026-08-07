@@ -38,8 +38,7 @@ content:
     tag: PhD
   - name: 硕士研究生
     tag: Master
-  - name: 毕业生
-    tag: Graduate
+
   
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

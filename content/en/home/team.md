@@ -38,10 +38,7 @@ content:
     tag: PhD
   - name: Mphil
     tag: Mphil
-  - name: Alumni
-    tag: Alumni
-  - name: Graduate
-    tag: Graduate
+
   
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
