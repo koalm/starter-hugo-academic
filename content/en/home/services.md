@@ -20,7 +20,7 @@ columns: "1"
 ---
 
 **Directorship**
-- Associate Director，Hong Kong-Shanghai Joint Lab for AI in Healthcare (2026 -)
+- Associate Director, Hong Kong-Shanghai Joint Lab for AI in Healthcare (2026 -)
 - Associate Director, Research Institute for Generative AI (2026 -)
 - Assistant Director, PolyU Academy for Artificial Intelligence (2025 -)
 - Associate Director, Artificial Intelligence Research Centre @PolyU-Daya Bay Technology and Innovation Research Institute （2025 - ）
