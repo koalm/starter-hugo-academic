@@ -20,10 +20,11 @@ columns: "1"
 ---
 
 **管理职务**
+- 沪港AI医疗健康联合实验室 副主任 (2026 -)
 - 香港理工大学生成式人工智能研究院 副院长 (2026 -)
 - 香港理工大学人工智能高等研究院 助理院长 (2025 -)
 - 香港理工大学大亚湾创新研究院人工智能研究中心 副主任 (2025 - )
-- 香港理工大学协作生成式人工智能研究中心 副主任 (2025 )）
+- 香港理工大学协作生成式人工智能研究中心 副主任 (2025 )
 
 
 **学术会员**
@@ -41,18 +42,5 @@ columns: "1"
 - 中国工业与应用数学学会区块链专业委员会 （2024 - ）
 - 中国管理现代化研究会管理与科学决策委员会 （2023 - ）
 - IEEE数字制造和人本自动化技术委员会 （2023 - ）
-
-**会议组委会**	
-
-- Annual International Conference for Chinese Scholars in Industrial Engineering (CSIE2020) and the 11th Forum for the Council of Chinese Industrial Engineering and Logistics Management Department Heads (CIEDH2019), 2020, Zhuhai, China.
-- Guangdong-Hong Kong-Macao Greater Bay Area Marine Logistics Development Summit Forum, 2020, Zhuhai, China.
-- 11th CIRP International Conference on Industrial Product Service Systems (CIRP IPS2 2019), 2019, Zhuhai, China.
-- The 19th Asia Pacific Industrial Engineering and Management Systems (APIEMS2018), 2018, Hong Kong.
-- Annual International Conference for Chinese Scholars in Industrial Engineering (CSIE2016) and the 7th Forum for the Council of Chinese Industrial Engineering and Logistics Management Department Heads (CIEDH2016), 2016, Hong Kong.
-
-**分论坛主席**
-  
-- Special Session “Smart Buildings and Community”, 2019 IEEE International Conference on Automation Science and Engineering, Vancouver, BC, Canada.
-- Special Session “PSS Value Network Innovation and Operations Management A”, 11th CIRP International Conference on Industrial Product Service Systems (CIRP IPS2 2019), Zhuhai, China.
 
 
