@@ -19,7 +19,7 @@ design:
 columns: "1"
 ---
 
-[32] 2027.1-2029.12: Agentic Sewing Template Designer for Small-Lot Garment Production, *Early Career Scheme (No.25208626)*, HK$ 535,546, **PI**
+[32] 2027.1-2029.12: Agentic Sewing Template Designer for Small-Lot Garment Production, *RGC Early Career Scheme (No.25208626)*, HK$ 535,546, **PI**
 
 [31] 2026.3-2028.3: Agentic Assistants for E-commerce Clothing Operation under Brand Ecosystem, *Innovation and Technology Fund (No.ITP/013/26TI)*, HK$ 6,375,002, **PC**
 
