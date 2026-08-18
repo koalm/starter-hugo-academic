@@ -19,7 +19,9 @@ design:
 columns: "1"
 ---
 
-[32] 2027.1-2029.12: Agentic Sewing Template Designer for Small-Lot Garment Production, *RGC Early Career Scheme (No.25208626)*, HK$ 535,546, **PI**
+[33] 2027.1-2029.12: Agentic Sewing Template Designer for Small-Lot Garment Production, *RGC Early Career Scheme (No.25208626)*, HK$ 535,546, **PI**
+
+[32] 2026.4-2029.3: Lightweight VLA-based Operational Robotics for Lithium Battery Manufacturing, *Key research and development projects in Huizhou (No.2026BQ010018)* RMB 400,000/2,000,000, **Co-PI**
 
 [31] 2026.3-2028.3: Agentic Assistants for E-commerce Clothing Operation under Brand Ecosystem, *Innovation and Technology Fund (No.ITP/013/26TI)*, HK$ 6,375,002, **PC**
 
