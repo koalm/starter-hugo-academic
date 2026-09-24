@@ -19,6 +19,12 @@ design:
 columns: "1"
 ---
 
+[52] Yang, Z.^, Ren, C., **Li, M.** *, & Huang, G. Q. (2027). MetaTwin: A reconfigurable digital twin framework. *Robotics and Computer-Integrated Manufacturing*, 103, 103404. [doi.org/10.1016/j.rcim.2026.103404](https://doi.org/10.1016/j.rcim.2026.103404)
+
+[51] Ling, S., Liu, B., Li, M., Guo, D., Qu, T., He, Z., ... & **Li, M.** * (2026). Synchronous production and intralogistics of smart assembly cell line under graduation intelligent manufacturing system. *International Journal of Production Research*, 1-20. [doi.org/10.1080/00207543.2026.2721538](https://doi.org/10.1080/00207543.2026.2721538)
+
+[50] Guo, N.^, **Li, M.** *, Harish, A. R., Ren, J., & Huang, G. Q. (2026). Authenticity in ESG disclosure: A systematic review, current challenges, and future perspectives. *International Journal of Production Economics*, 110213. [doi.org/10.1016/j.ijpe.2026.110213](https://doi.org/10.1016/j.ijpe.2026.110213)
+
 [49] Wei, X., **Li, M.** *, Li, R., & Zhou, J. (2026). Facilitating group consensus for offshore oil and gas decommissioning options: An improved similarity-based model. *Journal of Cleaner Production*, 569, 148737. [doi.org/10.1016/j.jclepro.2026.148737](https://doi.org/10.1016/j.jclepro.2026.148737)
 
 [48] You, Y.^, Yu, C., Ouyang, Z., & **Li, M.** * (2026). Four-dimensional spatial-temporal packet encapsulation in the Cyber-Physical Internet: A reinforcement learning approach. *Transportation Research Part E: Logistics and Transportation Review*, 211, 104843. [https://doi.org/10.1016/j.tre.2026.104843](https://doi.org/10.1016/j.tre.2026.104843)
