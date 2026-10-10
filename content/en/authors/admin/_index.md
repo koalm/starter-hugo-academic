@@ -37,10 +37,10 @@ education:
     - course: M.Sc in Industrial Engineering and Logistics Management (Distinction)
       institution: The University of Hong Kong (HKSAR)
       year: 2013
-    - course: B.Eng in Computer Science and Technology (Major)
+    - course: B.Eng in Computer Science and Technology (1st Degree)
       institution: South China University of Technology (CHINA)
       year: 2012
-    - course: B.Ec in Finance (Minor)
+    - course: B.Ec in Finance (2nd Degree)
       institution: South China University of Technology (CHINA)
       year: 2012
 email: ming.li@polyu.edu.hk
